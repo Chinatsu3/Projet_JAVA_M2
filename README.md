@@ -1,2 +1,7 @@
-# Projet_JAVA_M2
+# Projet du cours JAVA M2 PluriTAL INALCO
+
+## Auteurs
+
+	Lara Dunuan
+	Chinatsu KUROIWA 
  
