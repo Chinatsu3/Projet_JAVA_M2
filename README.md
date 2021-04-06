@@ -15,7 +15,7 @@
 ### jsonProjet
 	Vous pouvez trouver tous les fichiers java pour notre Projet.
 	
-	Le fichier principal est ***Menu.java***
+	Le fichier principal est **Menu.java**.
 	
 ### fichierJar
 	Vous pouvez trouver les fichier.jar nécessaires pour notre projet.
