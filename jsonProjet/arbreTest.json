@@ -1,0 +1,30 @@
+[ {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "test",
+  "fields" : {
+    "geom_x_y" : [ 48.868294, 2.3631895 ],
+    "libellefrancais" : "Chêne",
+    "objectid" : 207977,
+    "idemplacement" : "000401009",
+    "arrondissement" : "PARIS 10E ARRDT",
+    "circonferenceencm" : 51.0,
+    "hauteurenm" : 7.0,
+    "espece" : "cerris",
+    "adresse" : "PLACE DE LA REPUBLIQUE",
+    "domanialite" : "Alignement",
+    "pepiniere" : "Guillot Bourne",
+    "stadedeveloppement" : "J",
+    "remarquable" : "1",
+    "idbase" : 2017817.0,
+    "genre" : "Quercus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "2017-11-09T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-26T12:45:18.176+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3631895, 48.868294 ]
+  }
+} ]

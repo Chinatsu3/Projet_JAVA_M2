@@ -1,0 +1,5192 @@
+[ {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "7f1097375ce534c71e0624beec31f1f47ea4bf35",
+  "fields" : {
+    "geom_x_y" : [ 48.880337, 2.3813052 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 199,
+    "idemplacement" : "H0690012",
+    "arrondissement" : "PARIS 19E ARRDT",
+    "circonferenceencm" : 686.0,
+    "hauteurenm" : 30.0,
+    "espece" : "x hispanica",
+    "adresse" : "PARC DES BUTTES CHAUMONT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 102141.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "19-08",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3813052, 48.880337 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "e6d5cb9d7825f29afccd3bc7a34f1d59b255969a",
+  "fields" : {
+    "geom_x_y" : [ 48.876472, 2.2574997 ],
+    "libellefrancais" : "Sequoia",
+    "objectid" : 27345,
+    "idemplacement" : "001001001",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 335.0,
+    "hauteurenm" : 28.0,
+    "espece" : "giganteum",
+    "adresse" : "ROUTE DE LA PORTE SAINT-JAMES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002387.0,
+    "genre" : "Sequoiadendron",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-12",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1850-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2574997, 48.876472 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "f9ef629c47a750f563aab9eb1df8f04eda1721e5",
+  "fields" : {
+    "geom_x_y" : [ 48.872643, 2.281364 ],
+    "libellefrancais" : "Orme de Sibérie",
+    "objectid" : 46127,
+    "idemplacement" : "000404059 / 16-26",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 426.0,
+    "hauteurenm" : 26.0,
+    "espece" : "carpinifolia",
+    "adresse" : "JARDIN DE L AVENUE FOCH / 10 AVENUE FOCH",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 114140.0,
+    "genre" : "Zelkova",
+    "varieteoucultivar" : null,
+    "complementadresse" : "PELOUSE 05 - 54 à 68",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.281364, 48.872643 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "aea5f155fff2aa5ff27bb95012fc30b775a3a6b6",
+  "fields" : {
+    "geom_x_y" : [ 48.894623, 2.3268523 ],
+    "libellefrancais" : "Tulipier",
+    "objectid" : 70346,
+    "idemplacement" : "00000134",
+    "arrondissement" : "PARIS 17E ARRDT",
+    "circonferenceencm" : 250.0,
+    "hauteurenm" : 17.0,
+    "espece" : "tulipifera",
+    "adresse" : "SQUARE DES EPINETTES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 134212.0,
+    "genre" : "Liriodendron",
+    "varieteoucultivar" : null,
+    "complementadresse" : "17-03",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3268523, 48.894623 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "178573208ad85aab984e54ba247fecce3e29815c",
+  "fields" : {
+    "geom_x_y" : [ 48.844887, 2.3536692 ],
+    "libellefrancais" : "Hêtre",
+    "objectid" : 183022,
+    "idemplacement" : "00000075",
+    "arrondissement" : "PARIS 5E ARRDT",
+    "circonferenceencm" : 90.0,
+    "hauteurenm" : 3.0,
+    "espece" : "sylvatica",
+    "adresse" : "SQUARE DES ARENES DE LUTECE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 132669.0,
+    "genre" : "Fagus",
+    "varieteoucultivar" : "''Tortuosa''",
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1905-01-01T01:09:21+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3536692, 48.844887 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "1bcaa08cd185be245f45025368cb4542ae874780",
+  "fields" : {
+    "geom_x_y" : [ 48.869457, 2.2477133 ],
+    "libellefrancais" : "Sequoia",
+    "objectid" : 121687,
+    "idemplacement" : "000701002",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 511.0,
+    "hauteurenm" : 28.0,
+    "espece" : "giganteum",
+    "adresse" : "PARC DE BAGATELLE - ALLEE DE LONGCHAMP / ROUTE DE SEVRES A NEUILLY",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 2002350.0,
+    "genre" : "Sequoiadendron",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-22",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1850-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2477133, 48.869457 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "fbefead13acbb353c0df3b24334f1e2f5c484129",
+  "fields" : {
+    "geom_x_y" : [ 48.87168, 2.2492328 ],
+    "libellefrancais" : "Araucaria",
+    "objectid" : 126107,
+    "idemplacement" : "000701003",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 182.0,
+    "hauteurenm" : 11.0,
+    "espece" : "araucana",
+    "adresse" : "PARC DE BAGATELLE - ALLEE DE LONGCHAMP / ROUTE DE SEVRES A NEUILLY",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 2002353.0,
+    "genre" : "Araucaria",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-23",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1907-01-01T01:09:21+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2492328, 48.87168 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "7b28252669fdceaf2d5e113a0f07028ad77381e8",
+  "fields" : {
+    "geom_x_y" : [ 48.823128, 2.3387094 ],
+    "libellefrancais" : "Arbre aux quarante écus",
+    "objectid" : 156350,
+    "idemplacement" : "0417A2001",
+    "arrondissement" : "PARIS 14E ARRDT",
+    "circonferenceencm" : 425.0,
+    "hauteurenm" : 20.0,
+    "espece" : "biloba",
+    "adresse" : "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 112946.0,
+    "genre" : "Ginkgo",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Talus du Lac",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3387094, 48.823128 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "270c4fb227b6e009c2854069f42a22efc6eb601e",
+  "fields" : {
+    "geom_x_y" : [ 48.85522, 2.3007824 ],
+    "libellefrancais" : "Micocoulier",
+    "objectid" : 188896,
+    "idemplacement" : "P00907006",
+    "arrondissement" : "PARIS 7E ARRDT",
+    "circonferenceencm" : 250.0,
+    "hauteurenm" : 19.0,
+    "espece" : "occidentalis",
+    "adresse" : "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 106662.0,
+    "genre" : "Celtis",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Canton 09",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3007824, 48.85522 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "d1d4d84164761253883caebb0037a111ab03c944",
+  "fields" : {
+    "geom_x_y" : [ 48.8323, 2.4106784 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 193814,
+    "idemplacement" : "12-07",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 399.0,
+    "hauteurenm" : 35.0,
+    "espece" : "x hispanica",
+    "adresse" : "ILE DE BERCY / LAC DAUMESNIL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002365.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-07",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1860-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4106784, 48.8323 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "39daef52da7730f2b7b52fa9833a50a1de2de8cc",
+  "fields" : {
+    "geom_x_y" : [ 48.87368, 2.2902524 ],
+    "libellefrancais" : "Chêne",
+    "objectid" : 35519,
+    "idemplacement" : "000206003 / 16-32",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 204.0,
+    "hauteurenm" : 10.0,
+    "espece" : "ilex",
+    "adresse" : "JARDIN DE L AVENUE FOCH / 10 AVENUE FOCH",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 114867.0,
+    "genre" : "Quercus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "PELOUSE 10 - 20 à 26",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2902524, 48.87368 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "f8a9dd220375eed7f49d68e12d690cc7519e5217",
+  "fields" : {
+    "geom_x_y" : [ 48.852356, 2.35181 ],
+    "libellefrancais" : "Tamaris",
+    "objectid" : 46357,
+    "idemplacement" : "000102002",
+    "arrondissement" : "PARIS 4E ARRDT",
+    "circonferenceencm" : 230.0,
+    "hauteurenm" : 3.0,
+    "espece" : "n. sp.",
+    "adresse" : "SQUARE JEAN XXIII / 2 QUAI DE L ARCHEVECHE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 125051.0,
+    "genre" : "Tamarix",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.35181, 48.852356 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "743a5c9988e38e2e556e5cf388e46b06d4f5d0b5",
+  "fields" : {
+    "geom_x_y" : [ 48.84761, 2.253143 ],
+    "libellefrancais" : "Sterculier",
+    "objectid" : 107352,
+    "idemplacement" : "00030001",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 133.0,
+    "hauteurenm" : 12.0,
+    "espece" : "simplex",
+    "adresse" : "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 136446.0,
+    "genre" : "Firmiana",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.253143, 48.84761 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "1d8cfa4206681d51d5f9e01f9992b92f00e69dcc",
+  "fields" : {
+    "geom_x_y" : [ 48.83634, 2.2902095 ],
+    "libellefrancais" : "Hêtre",
+    "objectid" : 136303,
+    "idemplacement" : "00000002",
+    "arrondissement" : "PARIS 15E ARRDT",
+    "circonferenceencm" : 130.0,
+    "hauteurenm" : 5.0,
+    "espece" : "sylvatica",
+    "adresse" : "SQUARE DU CLOS FEUQUIERES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 128373.0,
+    "genre" : "Fagus",
+    "varieteoucultivar" : "''Pendula''",
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1973-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2902095, 48.83634 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "b03a9030b09483cbac75e10b60a84488af24883a",
+  "fields" : {
+    "geom_x_y" : [ 48.861473, 2.3543746 ],
+    "libellefrancais" : "Marronnier",
+    "objectid" : 142484,
+    "idemplacement" : "000101001",
+    "arrondissement" : "PARIS 3E ARRDT",
+    "circonferenceencm" : 76.0,
+    "hauteurenm" : 8.0,
+    "espece" : "hippocastanum",
+    "adresse" : "JARDIN ANNE FRANCK / 14 IMPASSE BERTHAUD",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "J",
+    "remarquable" : "1",
+    "idbase" : 134435.0,
+    "genre" : "Aesculus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "2006-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3543746, 48.861473 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "7009fd9b06eb068076201e56c67db61ae60b14c4",
+  "fields" : {
+    "geom_x_y" : [ 48.869225, 2.246017 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 150283,
+    "idemplacement" : "000701005",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 500.0,
+    "hauteurenm" : 40.0,
+    "espece" : "x hispanica",
+    "adresse" : "PARC DE BAGATELLE - ALLEE DE LONGCHAMP / ROUTE DE SEVRES A NEUILLY",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002346.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-19",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1847-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.246017, 48.869225 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "5148af0ed401f8f1f860d27cf61a362cc5cb8a94",
+  "fields" : {
+    "geom_x_y" : [ 48.839645, 2.3009756 ],
+    "libellefrancais" : "Chêne",
+    "objectid" : 158123,
+    "idemplacement" : "000106001",
+    "arrondissement" : "PARIS 15E ARRDT",
+    "circonferenceencm" : 180.0,
+    "hauteurenm" : 15.0,
+    "espece" : "frainetto",
+    "adresse" : "SQUARE DE LA PLACE ADOLPHE CHERIOUX / 260 RUE DE VAUGIRARD",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 113597.0,
+    "genre" : "Quercus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3009756, 48.839645 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "70d36ec0759724bbf2f5bfa3bb9f2edac1def7b5",
+  "fields" : {
+    "geom_x_y" : [ 48.885628, 2.3437924 ],
+    "libellefrancais" : "Grenadier",
+    "objectid" : 163587,
+    "idemplacement" : "00001160",
+    "arrondissement" : "PARIS 18E ARRDT",
+    "circonferenceencm" : 30.0,
+    "hauteurenm" : 3.0,
+    "espece" : "granatum",
+    "adresse" : "SQUARE LOUISE MICHEL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 125087.0,
+    "genre" : "Punica",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1952-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3437924, 48.885628 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "0c66c6fc88e3ba4fd21ef236e2cfa7478741a3d8",
+  "fields" : {
+    "geom_x_y" : [ 48.860603, 2.259777 ],
+    "libellefrancais" : "Cyprès Chauve",
+    "objectid" : 200962,
+    "idemplacement" : "000101003",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 354.0,
+    "hauteurenm" : 32.0,
+    "espece" : "distichum",
+    "adresse" : "BERGE DU LAC INFERIEUR - CHEMIN DE CEINTURE DU LAC INFERIEUR",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002397.0,
+    "genre" : "Taxodium",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-03",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1862-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.259777, 48.860603 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "ae3958f9590c77bc9e121f628f37aff7bc2a7feb",
+  "fields" : {
+    "geom_x_y" : [ 48.861515, 2.399066 ],
+    "libellefrancais" : "Chicot du Canada",
+    "objectid" : 3682,
+    "idemplacement" : "D00000077024",
+    "arrondissement" : "PARIS 20E ARRDT",
+    "circonferenceencm" : 155.0,
+    "hauteurenm" : 11.0,
+    "espece" : "dioica",
+    "adresse" : "CIMETIERE DU PERE LACHAISE / DIV 77",
+    "domanialite" : "CIMETIERE",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 158609.0,
+    "genre" : "Gymnocladus",
+    "varieteoucultivar" : "''Variegata''",
+    "complementadresse" : "20-17",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.399066, 48.861515 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "0e93ceba4ab92ca665a5aa3cb4537ca6d91913a8",
+  "fields" : {
+    "geom_x_y" : [ 48.86081, 2.3918438 ],
+    "libellefrancais" : "Cèdre",
+    "objectid" : 53672,
+    "idemplacement" : "D00000004036",
+    "arrondissement" : "PARIS 20E ARRDT",
+    "circonferenceencm" : 372.0,
+    "hauteurenm" : 25.0,
+    "espece" : "libani",
+    "adresse" : "CIMETIERE DU PERE LACHAISE / DIV 4",
+    "domanialite" : "CIMETIERE",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 152606.0,
+    "genre" : "Cedrus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "20-16",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3918438, 48.86081 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "eed5ab62eb9895560260bf5228045b43ad55e0bf",
+  "fields" : {
+    "geom_x_y" : [ 48.849316, 2.3451865 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 67721,
+    "idemplacement" : "00000002",
+    "arrondissement" : "PARIS 5E ARRDT",
+    "circonferenceencm" : 450.0,
+    "hauteurenm" : 24.0,
+    "espece" : "orientalis",
+    "adresse" : "SQUARE MICHEL-FOUCAULT / 43Q RUE DES ECOLES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 132543.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3451865, 48.849316 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "8a1f0b25a8ad52439c76290c71a32b01cf5952ae",
+  "fields" : {
+    "geom_x_y" : [ 48.870407, 2.248521 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 74754,
+    "idemplacement" : "000701007",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 221.0,
+    "hauteurenm" : 24.0,
+    "espece" : "orientalis",
+    "adresse" : "PARC DE BAGATELLE - ALLEE DE LONGCHAMP / ROUTE DE SEVRES A NEUILLY",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002351.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-18",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1843-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.248521, 48.870407 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "149c02a36e6c72b74e69f989b22b0d25cc77ff25",
+  "fields" : {
+    "geom_x_y" : [ 48.873135, 2.2867956 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 93726,
+    "idemplacement" : "000210037 / 16-29",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 445.0,
+    "hauteurenm" : 21.0,
+    "espece" : "x hispanica",
+    "adresse" : "JARDIN DE L AVENUE FOCH / 10 AVENUE FOCH",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 114166.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "PELOUSE 08 - 34 à 44",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2867956, 48.873135 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "7d2fc3e7f4de61f034778fe31c48247e38e54762",
+  "fields" : {
+    "geom_x_y" : [ 48.87408, 2.259165 ],
+    "libellefrancais" : "Catalpa",
+    "objectid" : 221214,
+    "idemplacement" : "001301001",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 397.0,
+    "hauteurenm" : 14.0,
+    "espece" : "bignonioides",
+    "adresse" : "TIR AU PIGEON / 32 ROUTE DE L ETOILE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2009236.0,
+    "genre" : "Catalpa",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-62",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1910-01-01T01:09:21+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.259165, 48.87408 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "7ab1499437f9a13a1600983375ad8bd6465e1dc1",
+  "fields" : {
+    "geom_x_y" : [ 48.86255, 2.2378983 ],
+    "libellefrancais" : "Orme de Sibérie",
+    "objectid" : 103089,
+    "idemplacement" : "000601001",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 321.0,
+    "hauteurenm" : 16.0,
+    "espece" : "carpinifolia",
+    "adresse" : "MOULIN DE LONGCHAMP - ROUTE DES TRIBUNES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002344.0,
+    "genre" : "Zelkova",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-06",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1896-01-01T01:09:21+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2378983, 48.86255 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "8aaa83fbe3490ee0bfbebead1fe0a5ddc14ccac8",
+  "fields" : {
+    "geom_x_y" : [ 48.86723, 2.2702687 ],
+    "libellefrancais" : "Cèdre",
+    "objectid" : 121299,
+    "idemplacement" : "000101001",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 216.0,
+    "hauteurenm" : 6.0,
+    "espece" : "libani",
+    "adresse" : "SQUARE CLAUDE DEBUSSY / 51 AVENUE DU MARECHAL FAYOLLE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 138935.0,
+    "genre" : "Cedrus",
+    "varieteoucultivar" : "''Glauca Pendula''",
+    "complementadresse" : "16-24",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2702687, 48.86723 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "c6528542910a547d975abe6b76cb0cd42c706118",
+  "fields" : {
+    "geom_x_y" : [ 48.871536, 2.2781692 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 127316,
+    "idemplacement" : "000307023 / 16-27",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 443.0,
+    "hauteurenm" : 27.0,
+    "espece" : "x hispanica",
+    "adresse" : "JARDIN DE L AVENUE FOCH / 10 AVENUE FOCH",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 111331.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "PELOUSE 20 - 75 à 77",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2781692, 48.871536 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "0b3708a1a4fc50106e48c8ce04985277b017bd40",
+  "fields" : {
+    "geom_x_y" : [ 48.878704, 2.3064742 ],
+    "libellefrancais" : "Erable",
+    "objectid" : 141464,
+    "idemplacement" : "00NO0144",
+    "arrondissement" : "PARIS 8E ARRDT",
+    "circonferenceencm" : 425.0,
+    "hauteurenm" : 28.0,
+    "espece" : "pseudoplatanus",
+    "adresse" : "PARC MONCEAU",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 305507.0,
+    "genre" : "Acer",
+    "varieteoucultivar" : null,
+    "complementadresse" : "08-01",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3064742, 48.878704 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "1dacfad9662e4220c4ce84c15bb213a55aa6f5bd",
+  "fields" : {
+    "geom_x_y" : [ 48.886097, 2.34468 ],
+    "libellefrancais" : "Pterocarya",
+    "objectid" : 209348,
+    "idemplacement" : "00000127",
+    "arrondissement" : "PARIS 18E ARRDT",
+    "circonferenceencm" : 375.0,
+    "hauteurenm" : 26.0,
+    "espece" : "fraxinifolia",
+    "adresse" : "SQUARE LOUISE MICHEL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 120518.0,
+    "genre" : "Pterocarya",
+    "varieteoucultivar" : null,
+    "complementadresse" : "18-12",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.34468, 48.886097 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "e914aea85650e45729bb57832ea658697b79e821",
+  "fields" : {
+    "geom_x_y" : [ 48.830376, 2.413493 ],
+    "libellefrancais" : "Erable",
+    "objectid" : 213645,
+    "idemplacement" : "12-05",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 203.0,
+    "hauteurenm" : 14.0,
+    "espece" : "opalus",
+    "adresse" : "ILE DE BERCY / LAC DAUMESNIL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002358.0,
+    "genre" : "Acer",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-05",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1870-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.413493, 48.830376 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "53ec10f554de413d84b25c7462215f8f4f3c5e1d",
+  "fields" : {
+    "geom_x_y" : [ 48.843307, 2.4497426 ],
+    "libellefrancais" : "Chêne",
+    "objectid" : 220369,
+    "idemplacement" : "12-26",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 464.0,
+    "hauteurenm" : 30.0,
+    "espece" : "robur",
+    "adresse" : "FORT NEUF - AVENUE DE LA PEPINIERE / ROUTE DU GRAND MARECHAL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002375.0,
+    "genre" : "Quercus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-26",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1815-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4497426, 48.843307 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "96401a89b491b664cd05eb2e30075abbe58cb1db",
+  "fields" : {
+    "geom_x_y" : [ 48.827755, 2.3592677 ],
+    "libellefrancais" : "Cèdre",
+    "objectid" : 224914,
+    "idemplacement" : "00000357",
+    "arrondissement" : "PARIS 13E ARRDT",
+    "circonferenceencm" : 351.0,
+    "hauteurenm" : 25.0,
+    "espece" : "libani",
+    "adresse" : "SQUARE DE CHOISY",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 106181.0,
+    "genre" : "Cedrus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "13-03",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3592677, 48.827755 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "b903b500c74eb51892b72add2221d7c16cebe3f2",
+  "fields" : {
+    "geom_x_y" : [ 48.861595, 2.2910364 ],
+    "libellefrancais" : "Noisetier de Byzance",
+    "objectid" : 38664,
+    "idemplacement" : "000906007",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 258.0,
+    "hauteurenm" : 20.0,
+    "espece" : "colurna",
+    "adresse" : "JARDINS DU TROCADERO / 3 PLACE DE VARSOVIE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 108256.0,
+    "genre" : "Corylus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Canton 09",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2910364, 48.861595 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "1912af7c0a84bede7a2fa8819dfbf7cab0127d1a",
+  "fields" : {
+    "geom_x_y" : [ 48.82158, 2.4549465 ],
+    "libellefrancais" : "Orme de Sibérie",
+    "objectid" : 51704,
+    "idemplacement" : "12-21",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 308.0,
+    "hauteurenm" : 18.0,
+    "espece" : "carpinifolia",
+    "adresse" : "ARBORETUM DE L ECOLE DU BREUIL - ROUTE DE LA FERME / ROUTE DE LA PYRAMIDE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002381.0,
+    "genre" : "Zelkova",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-21",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "2000-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4549465, 48.82158 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "45defea3432ce2df072150e6f5e2dfdffc164485",
+  "fields" : {
+    "geom_x_y" : [ 48.85974, 2.3999832 ],
+    "libellefrancais" : "Marronnier",
+    "objectid" : 54806,
+    "idemplacement" : "D00000076032",
+    "arrondissement" : "PARIS 20E ARRDT",
+    "circonferenceencm" : 347.0,
+    "hauteurenm" : 22.0,
+    "espece" : "hippocastanum",
+    "adresse" : "CIMETIERE DU PERE LACHAISE / DIV 76",
+    "domanialite" : "CIMETIERE",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 147672.0,
+    "genre" : "Aesculus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "20-15",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3999832, 48.85974 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "202a2111b0db74911f7ebddb1799636270407f96",
+  "fields" : {
+    "geom_x_y" : [ 48.820126, 2.4451177 ],
+    "libellefrancais" : "Cèdre",
+    "objectid" : 162643,
+    "idemplacement" : "12-16",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 420.0,
+    "hauteurenm" : 22.0,
+    "espece" : "libani",
+    "adresse" : "LAC DE GRAVELLE - ROUTE DU PESAGE / ROUTE DE LA TOURELLE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002384.0,
+    "genre" : "Cedrus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-16",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1829-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4451177, 48.820126 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "a7f2fd2b6ee3ea888509c23d8a459caff4a65dd3",
+  "fields" : {
+    "geom_x_y" : [ 48.836426, 2.2901857 ],
+    "libellefrancais" : "Hêtre",
+    "objectid" : 140444,
+    "idemplacement" : "00000001",
+    "arrondissement" : "PARIS 15E ARRDT",
+    "circonferenceencm" : 140.0,
+    "hauteurenm" : 4.0,
+    "espece" : "sylvatica",
+    "adresse" : "SQUARE DU CLOS FEUQUIERES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 128372.0,
+    "genre" : "Fagus",
+    "varieteoucultivar" : "''Pendula''",
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1973-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2901857, 48.836426 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "2b62c4ee7f11ac02a3440a92b5acbaa65de3ceeb",
+  "fields" : {
+    "geom_x_y" : [ 48.84935, 2.345033 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 150910,
+    "idemplacement" : "00000001",
+    "arrondissement" : "PARIS 5E ARRDT",
+    "circonferenceencm" : 395.0,
+    "hauteurenm" : 24.0,
+    "espece" : "orientalis",
+    "adresse" : "SQUARE MICHEL-FOUCAULT / 43Q RUE DES ECOLES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 132542.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.345033, 48.84935 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "ddbb1798e27e6636e1f12c3e998cbc16d5b29a9c",
+  "fields" : {
+    "geom_x_y" : [ 48.854275, 2.3357353 ],
+    "libellefrancais" : "Paulownia",
+    "objectid" : 169748,
+    "idemplacement" : "000101001",
+    "arrondissement" : "PARIS 6E ARRDT",
+    "circonferenceencm" : 295.0,
+    "hauteurenm" : 20.0,
+    "espece" : "tomentosa",
+    "adresse" : "RUE DE FURSTEMBERG",
+    "domanialite" : "Alignement",
+    "pepiniere" : "Guillot Bourne",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 216766.0,
+    "genre" : "Paulownia",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1999-01-25T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3357353, 48.854275 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "48b7fbde0fa7778861c2030734747ef71b514a0b",
+  "fields" : {
+    "geom_x_y" : [ 48.839886, 2.4338832 ],
+    "libellefrancais" : "Hêtre",
+    "objectid" : 207060,
+    "idemplacement" : "12-22",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 414.0,
+    "hauteurenm" : 16.0,
+    "espece" : "sylvatica",
+    "adresse" : "SQUARE CARNOT - AVENUE DAUMESNIL / ESPLANADE DU CHATEAU DE VINCENNES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002372.0,
+    "genre" : "Fagus",
+    "varieteoucultivar" : "''Pendula''",
+    "complementadresse" : "12-22",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1864-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4338832, 48.839886 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "ed3097323655c50628daa449f251ddf396957b7d",
+  "fields" : {
+    "geom_x_y" : [ 48.887318, 2.3170626 ],
+    "libellefrancais" : "Plaqueminier",
+    "objectid" : 2736,
+    "idemplacement" : "00000224",
+    "arrondissement" : "PARIS 17E ARRDT",
+    "circonferenceencm" : 157.0,
+    "hauteurenm" : 13.0,
+    "espece" : "lotus",
+    "adresse" : "SQUARE DES BATIGNOLLES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 135415.0,
+    "genre" : "Diospyros",
+    "varieteoucultivar" : null,
+    "complementadresse" : "17-12",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3170626, 48.887318 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "7ec1f9592e6cdee8ba6f74032e48470f538df9cd",
+  "fields" : {
+    "geom_x_y" : [ 48.867805, 2.3888342 ],
+    "libellefrancais" : "Amandier",
+    "objectid" : 3356,
+    "idemplacement" : "0000001",
+    "arrondissement" : "PARIS 20E ARRDT",
+    "circonferenceencm" : 240.0,
+    "hauteurenm" : 9.0,
+    "espece" : "dulcis",
+    "adresse" : "CENTRE D''ANIMATION LES AMANDIERS / 110 RUE DES AMANDIERS",
+    "domanialite" : "DAC",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2013640.0,
+    "genre" : "Prunus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "2000-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3888342, 48.867805 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "e997b0415114991f0e107a7cdd49318bd439ecaf",
+  "fields" : {
+    "geom_x_y" : [ 48.85917, 2.2702177 ],
+    "libellefrancais" : "Noisetier de Byzance",
+    "objectid" : 50671,
+    "idemplacement" : "00040029",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 228.0,
+    "hauteurenm" : 16.0,
+    "espece" : "colurna",
+    "adresse" : "JARDIN DU RANELAGH",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 136739.0,
+    "genre" : "Corylus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-39",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2702177, 48.85917 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "19f4d05c245fa24ce0a981344e96978a09ac62d1",
+  "fields" : {
+    "geom_x_y" : [ 48.868263, 2.2935324 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 51340,
+    "idemplacement" : "00000012",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 149.0,
+    "hauteurenm" : 13.0,
+    "espece" : "x hispanica",
+    "adresse" : "SQUARE THOMAS JEFFERSSON",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 126662.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2935324, 48.868263 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "30323b21ad39f01bed89cab98b8e124ad9e96c87",
+  "fields" : {
+    "geom_x_y" : [ 48.847637, 2.2527466 ],
+    "libellefrancais" : "Arbre aux quarante écus",
+    "objectid" : 56151,
+    "idemplacement" : "00050045",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 425.0,
+    "hauteurenm" : 25.0,
+    "espece" : "biloba",
+    "adresse" : "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 136527.0,
+    "genre" : "Ginkgo",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1895-01-01T01:09:21+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2527466, 48.847637 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "b9ac4b6eb9fccb49f323bef4e1d9a4e683ff1423",
+  "fields" : {
+    "geom_x_y" : [ 48.84624, 2.2513754 ],
+    "libellefrancais" : "Erable",
+    "objectid" : 127555,
+    "idemplacement" : "00040005",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 207.0,
+    "hauteurenm" : 16.0,
+    "espece" : "monspessulanum",
+    "adresse" : "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 123330.0,
+    "genre" : "Acer",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2513754, 48.84624 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "e9603ddd3e63e5819e560f863b415e517150eeac",
+  "fields" : {
+    "geom_x_y" : [ 48.834175, 2.4613206 ],
+    "libellefrancais" : "Chêne",
+    "objectid" : 135183,
+    "idemplacement" : "12-25",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 422.0,
+    "hauteurenm" : 30.0,
+    "espece" : "robur",
+    "adresse" : "LAC DES MINIMES - ROUTE RONDE DES MINIMES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002376.0,
+    "genre" : "Quercus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-25",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1784-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4613206, 48.834175 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "549436ad0a7c549d7dd26ecb760aa63f7d87356a",
+  "fields" : {
+    "geom_x_y" : [ 48.861256, 2.3950503 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 191673,
+    "idemplacement" : "D00000045009",
+    "arrondissement" : "PARIS 20E ARRDT",
+    "circonferenceencm" : 362.0,
+    "hauteurenm" : 26.0,
+    "espece" : "x hispanica",
+    "adresse" : "CIMETIERE DU PERE LACHAISE / DIV 45",
+    "domanialite" : "CIMETIERE",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 162943.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "20-14",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3950503, 48.861256 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "80b2c35726e7f0c38a70121385626796409a859f",
+  "fields" : {
+    "geom_x_y" : [ 48.852783, 2.351016 ],
+    "libellefrancais" : "Noisetier de Byzance",
+    "objectid" : 22918,
+    "idemplacement" : "000104001",
+    "arrondissement" : "PARIS 4E ARRDT",
+    "circonferenceencm" : 210.0,
+    "hauteurenm" : 19.0,
+    "espece" : "colurna",
+    "adresse" : "SQUARE JEAN XXIII / 2 QUAI DE L ARCHEVECHE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 125046.0,
+    "genre" : "Corylus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "04-04",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.351016, 48.852783 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "bf612c85b7a046292c163f67cfc96391b3b8eb5e",
+  "fields" : {
+    "geom_x_y" : [ 48.854378, 2.2986298 ],
+    "libellefrancais" : "Cèdre",
+    "objectid" : 39640,
+    "idemplacement" : "P00709013",
+    "arrondissement" : "PARIS 7E ARRDT",
+    "circonferenceencm" : 308.0,
+    "hauteurenm" : 20.0,
+    "espece" : "libani",
+    "adresse" : "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 106913.0,
+    "genre" : "Cedrus",
+    "varieteoucultivar" : "''Glauca''",
+    "complementadresse" : "Canton 07",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2986298, 48.854378 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "1fcfc69ed8fee059783a3fdf0bf09565604feb00",
+  "fields" : {
+    "geom_x_y" : [ 48.88147, 2.38368 ],
+    "libellefrancais" : "Sophora",
+    "objectid" : 73261,
+    "idemplacement" : "I1090024",
+    "arrondissement" : "PARIS 19E ARRDT",
+    "circonferenceencm" : 408.0,
+    "hauteurenm" : 12.0,
+    "espece" : "japonica",
+    "adresse" : "PARC DES BUTTES CHAUMONT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 101752.0,
+    "genre" : "Sophora",
+    "varieteoucultivar" : null,
+    "complementadresse" : "19-06",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.38368, 48.88147 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "5d79e44d596c4f8863c81414f8ae462537c86e58",
+  "fields" : {
+    "geom_x_y" : [ 48.829254, 2.413182 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 80291,
+    "idemplacement" : "12-30",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 504.0,
+    "hauteurenm" : 27.0,
+    "espece" : "x hispanica",
+    "adresse" : "ROUTE DE LA CEINTURE DU LAC DAUMESNIL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002357.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-30",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1871-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.413182, 48.829254 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "00c32156f6bd467ad6e9b8fef01653f44a83c76e",
+  "fields" : {
+    "geom_x_y" : [ 48.88303, 2.3700628 ],
+    "libellefrancais" : "Tilleul",
+    "objectid" : 229459,
+    "idemplacement" : "000103001",
+    "arrondissement" : "PARIS 19E ARRDT",
+    "circonferenceencm" : 215.0,
+    "hauteurenm" : 23.0,
+    "espece" : "tomentosa",
+    "adresse" : "PLACE DE LA BATAILLE DE STALINGRAD",
+    "domanialite" : "Alignement",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 235972.0,
+    "genre" : "Tilia",
+    "varieteoucultivar" : null,
+    "complementadresse" : "19-05",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1945-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3700628, 48.88303 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "c4ce8f7545ba4c71ad573ed45ac8deda19478d11",
+  "fields" : {
+    "geom_x_y" : [ 48.86301, 2.2417738 ],
+    "libellefrancais" : "Pin",
+    "objectid" : 168131,
+    "idemplacement" : "000901001",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 241.0,
+    "hauteurenm" : 30.0,
+    "espece" : "nigra subsp. laricio",
+    "adresse" : "RESERVOIR DE LA GRANDE CASCADE - CARREFOUR DE LONGCHAMP",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002349.0,
+    "genre" : "Pinus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-08",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1882-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2417738, 48.86301 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "993f2a5570581c60049cea7036e804712ac73d5d",
+  "fields" : {
+    "geom_x_y" : [ 48.834164, 2.3825545 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 169106,
+    "idemplacement" : "00000373",
+    "arrondissement" : "PARIS 12E ARRDT",
+    "circonferenceencm" : 502.0,
+    "hauteurenm" : 35.0,
+    "espece" : "x hispanica",
+    "adresse" : "PARC DE BERCY",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 100818.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-36",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3825545, 48.834164 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "a1bdf8a8fb84e0c2d39d50098f213265de842d55",
+  "fields" : {
+    "geom_x_y" : [ 48.849747, 2.3600395 ],
+    "libellefrancais" : "Cèdre",
+    "objectid" : 225132,
+    "idemplacement" : "00000010",
+    "arrondissement" : "PARIS 4E ARRDT",
+    "circonferenceencm" : 133.0,
+    "hauteurenm" : 12.0,
+    "espece" : "libani",
+    "adresse" : "SQUARE BARYE / 2 BOULEVARD HENRI IV",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : null,
+    "remarquable" : "1",
+    "idbase" : 123805.0,
+    "genre" : "Cedrus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1993-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3600395, 48.849747 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "9cd153872cf0be140ef93b1bef20fe78c2fd85ea",
+  "fields" : {
+    "geom_x_y" : [ 48.893936, 2.3244386 ],
+    "libellefrancais" : "Metaséquoia",
+    "objectid" : 3217,
+    "idemplacement" : "000101005",
+    "arrondissement" : "PARIS 17E ARRDT",
+    "circonferenceencm" : 244.0,
+    "hauteurenm" : 18.0,
+    "espece" : "glyptostroboides",
+    "adresse" : "SQUARE DE LA VILLA SAINTE CROIX / 10 VILLA SAINTE CROIX",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 123071.0,
+    "genre" : "Metasequoia",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1995-04-01T04:00:00+02:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3244386, 48.893936 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "0eb0f8ed6c358090516b331cbd551d73c5ac2223",
+  "fields" : {
+    "geom_x_y" : [ 48.862617, 2.2898042 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 14045,
+    "idemplacement" : "001004011",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 490.0,
+    "hauteurenm" : 28.0,
+    "espece" : "x hispanica",
+    "adresse" : "JARDINS DU TROCADERO / 3 PLACE DE VARSOVIE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 108281.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Canton 10",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2898042, 48.862617 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "33eb5779c7b2a462c410eabdf5cd9cd7f768b82f",
+  "fields" : {
+    "geom_x_y" : [ 48.83234, 2.4114463 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 16327,
+    "idemplacement" : "12-11",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 397.0,
+    "hauteurenm" : 40.0,
+    "espece" : "x hispanica",
+    "adresse" : "ILE DE BERCY / LAC DAUMESNIL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002364.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-11",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1860-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4114463, 48.83234 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "37f1aa1e8790bb91718dd066ac4bb0fd0179934e",
+  "fields" : {
+    "geom_x_y" : [ 48.832, 2.32583 ],
+    "libellefrancais" : "Cèdre",
+    "objectid" : 41479,
+    "idemplacement" : "10030016",
+    "arrondissement" : "PARIS 14E ARRDT",
+    "circonferenceencm" : 140.0,
+    "hauteurenm" : 20.0,
+    "espece" : "libani",
+    "adresse" : "SQUARE DE L ASPIRAND DUNAND / 20 RUE SAILLARD",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 116216.0,
+    "genre" : "Cedrus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1996-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.32583, 48.832 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "ef531dbd6c8475cafd4519083fa8d7b612f4fa40",
+  "fields" : {
+    "geom_x_y" : [ 48.85775, 2.3394039 ],
+    "libellefrancais" : "Saule",
+    "objectid" : 46955,
+    "idemplacement" : "000402002",
+    "arrondissement" : "PARIS 1ER ARRDT",
+    "circonferenceencm" : 140.0,
+    "hauteurenm" : 14.0,
+    "espece" : "babylonica",
+    "adresse" : "QUAI DE L HORLOGE",
+    "domanialite" : "Alignement",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 230281.0,
+    "genre" : "Salix",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3394039, 48.85775 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "b25c005369000779675ce0f99614ece1e564e895",
+  "fields" : {
+    "geom_x_y" : [ 48.894093, 2.3263319 ],
+    "libellefrancais" : "Marronnier",
+    "objectid" : 56998,
+    "idemplacement" : "00000125",
+    "arrondissement" : "PARIS 17E ARRDT",
+    "circonferenceencm" : 292.0,
+    "hauteurenm" : 20.0,
+    "espece" : "pavia",
+    "adresse" : "SQUARE DES EPINETTES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 134203.0,
+    "genre" : "Aesculus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "17-04",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3263319, 48.894093 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "b173d43c4b8138fcbe4229e4eed078e939f1dc39",
+  "fields" : {
+    "geom_x_y" : [ 48.85576, 2.3539934 ],
+    "libellefrancais" : "Orme",
+    "objectid" : 61876,
+    "idemplacement" : "000301001",
+    "arrondissement" : "PARIS 4E ARRDT",
+    "circonferenceencm" : 190.0,
+    "hauteurenm" : 16.0,
+    "espece" : "minor",
+    "adresse" : "PLACE SAINT GERVAIS",
+    "domanialite" : "Alignement",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 267663.0,
+    "genre" : "Ulmus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "04-01",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3539934, 48.85576 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "5fdaa66d09a967b80ee45695b3df389ce8b4daad",
+  "fields" : {
+    "geom_x_y" : [ 48.870937, 2.2480345 ],
+    "libellefrancais" : "If",
+    "objectid" : 72729,
+    "idemplacement" : "000701001",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 246.0,
+    "hauteurenm" : 15.0,
+    "espece" : "baccata",
+    "adresse" : "PARC DE BAGATELLE - ALLEE DE LONGCHAMP / ROUTE DE SEVRES A NEUILLY",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 2002352.0,
+    "genre" : "Taxus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-21",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1772-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2480345, 48.870937 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "011bf820bcc1404f1ef51d2d89369f387ac905c3",
+  "fields" : {
+    "geom_x_y" : [ 48.84929, 2.3562112 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 75418,
+    "idemplacement" : "000301059",
+    "arrondissement" : "PARIS 5E ARRDT",
+    "circonferenceencm" : 375.0,
+    "hauteurenm" : 25.0,
+    "espece" : "x hispanica",
+    "adresse" : "QUAI SAINT BERNARD",
+    "domanialite" : "Alignement",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 298210.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Jussieux",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1900-01-01T01:09:21+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3562112, 48.84929 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "f898cedfa039bfd6d86bd4ad63cbc031b26f44cf",
+  "fields" : {
+    "geom_x_y" : [ 48.84604, 2.2540662 ],
+    "libellefrancais" : "Micocoulier",
+    "objectid" : 91478,
+    "idemplacement" : "00060082",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 173.0,
+    "hauteurenm" : 9.0,
+    "espece" : "koraiensis",
+    "adresse" : "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 114452.0,
+    "genre" : "Celtis",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2540662, 48.84604 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "d7a6ed3018ba9fc67352b5065ae9a6bcec00f214",
+  "fields" : {
+    "geom_x_y" : [ 48.833687, 2.4211118 ],
+    "libellefrancais" : "Arbre aux quarante écus",
+    "objectid" : 117042,
+    "idemplacement" : "12-03",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 270.0,
+    "hauteurenm" : 25.0,
+    "espece" : "biloba",
+    "adresse" : "ECOLE DE CHIENS GUIDE D AVEUGLES - AVENUE DE SAINT-MAURICE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002368.0,
+    "genre" : "Ginkgo",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-03",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1875-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4211118, 48.833687 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "1bdc11441e0d173b43d94b7783ffd7b3b76119ab",
+  "fields" : {
+    "geom_x_y" : [ 48.865623, 2.3999412 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 126630,
+    "idemplacement" : "000202004",
+    "arrondissement" : "PARIS 20E ARRDT",
+    "circonferenceencm" : 500.0,
+    "hauteurenm" : 28.0,
+    "espece" : "x hispanica",
+    "adresse" : "SQUARE EDOUARD VAILLANT / 50 AVENUE GAMBETTA",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 121945.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "20-05",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3999412, 48.865623 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "75afb47bf1abdad7e738fdeb355535d06069cfb6",
+  "fields" : {
+    "geom_x_y" : [ 48.863857, 2.3966372 ],
+    "libellefrancais" : "Arbre aux quarante écus",
+    "objectid" : 137023,
+    "idemplacement" : "D00000078003",
+    "arrondissement" : "PARIS 20E ARRDT",
+    "circonferenceencm" : 180.0,
+    "hauteurenm" : 16.0,
+    "espece" : "biloba",
+    "adresse" : "CIMETIERE DU PERE LACHAISE / DIV 78",
+    "domanialite" : "CIMETIERE",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 158456.0,
+    "genre" : "Ginkgo",
+    "varieteoucultivar" : null,
+    "complementadresse" : "20-13",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3966372, 48.863857 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "12faccf6ca15421e2821e9502dbfec9d0bb5b1eb",
+  "fields" : {
+    "geom_x_y" : [ 48.84758, 2.253278 ],
+    "libellefrancais" : "Catalpa",
+    "objectid" : 159749,
+    "idemplacement" : "00030003",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 200.0,
+    "hauteurenm" : 3.0,
+    "espece" : "speciosa",
+    "adresse" : "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 136448.0,
+    "genre" : "Catalpa",
+    "varieteoucultivar" : "''Pulverulenta''",
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.253278, 48.84758 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "62f27f950ba807e30188240b8193f53a1391669a",
+  "fields" : {
+    "geom_x_y" : [ 48.885815, 2.3301156 ],
+    "libellefrancais" : "If",
+    "objectid" : 179783,
+    "idemplacement" : "D00000014007",
+    "arrondissement" : "PARIS 18E ARRDT",
+    "circonferenceencm" : 293.0,
+    "hauteurenm" : 11.0,
+    "espece" : "baccata",
+    "adresse" : "CIMETIERE DE MONTMARTRE / DIV 14",
+    "domanialite" : "CIMETIERE",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 167762.0,
+    "genre" : "Taxus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3301156, 48.885815 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "4d6a727675649384a1552ba00eef439510d313d9",
+  "fields" : {
+    "geom_x_y" : [ 48.838818, 2.4065669 ],
+    "libellefrancais" : "Chêne",
+    "objectid" : 7189,
+    "idemplacement" : "00000026",
+    "arrondissement" : "PARIS 12E ARRDT",
+    "circonferenceencm" : 169.0,
+    "hauteurenm" : 14.0,
+    "espece" : "frainetto",
+    "adresse" : "SQUARE CHARLES PEGUY",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 123156.0,
+    "genre" : "Quercus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-37",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1990-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4065669, 48.838818 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "bbc5dd78e92b87cddbea262488f35f50e9e13325",
+  "fields" : {
+    "geom_x_y" : [ 48.88008, 2.3857095 ],
+    "libellefrancais" : "Marronnier",
+    "objectid" : 102702,
+    "idemplacement" : "G0380001",
+    "arrondissement" : "PARIS 19E ARRDT",
+    "circonferenceencm" : 330.0,
+    "hauteurenm" : 22.0,
+    "espece" : "hippocastanum",
+    "adresse" : "PARC DES BUTTES CHAUMONT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 102027.0,
+    "genre" : "Aesculus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3857095, 48.88008 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "24de77806f60e75f0ee03de9d89a318211ec64dc",
+  "fields" : {
+    "geom_x_y" : [ 48.85787, 2.3481193 ],
+    "libellefrancais" : "Mûrier",
+    "objectid" : 230842,
+    "idemplacement" : "000103001",
+    "arrondissement" : "PARIS 4E ARRDT",
+    "circonferenceencm" : 105.0,
+    "hauteurenm" : 7.0,
+    "espece" : "alba",
+    "adresse" : "SQUARE DE LA TOUR SAINT JACQUES / 1 BIS RUE SAINT MARTIN",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 123848.0,
+    "genre" : "Morus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "2009-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3481193, 48.85787 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "c55998281707d536433b43ee874e02402aba03d7",
+  "fields" : {
+    "geom_x_y" : [ 48.88232, 2.3840883 ],
+    "libellefrancais" : "Arbre aux quarante écus",
+    "objectid" : 106850,
+    "idemplacement" : "G0310005",
+    "arrondissement" : "PARIS 19E ARRDT",
+    "circonferenceencm" : 270.0,
+    "hauteurenm" : 24.0,
+    "espece" : "biloba",
+    "adresse" : "PARC DES BUTTES CHAUMONT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 102053.0,
+    "genre" : "Ginkgo",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3840883, 48.88232 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "8e0b804b1efe6aa85912c46d2fb0cb8f212cfcfe",
+  "fields" : {
+    "geom_x_y" : [ 48.83261, 2.4114528 ],
+    "libellefrancais" : "Cyprès Chauve",
+    "objectid" : 125874,
+    "idemplacement" : "12-10",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 281.0,
+    "hauteurenm" : 18.0,
+    "espece" : "distichum",
+    "adresse" : "ILE DE BERCY / LAC DAUMESNIL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 2002363.0,
+    "genre" : "Taxodium",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-10",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1930-01-01T01:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4114528, 48.83261 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "e81e0cd10c729a49935fe158183ebd8f075cddb8",
+  "fields" : {
+    "geom_x_y" : [ 48.860035, 2.2691345 ],
+    "libellefrancais" : "Pterocarya",
+    "objectid" : 148393,
+    "idemplacement" : "00040084",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 445.0,
+    "hauteurenm" : 28.0,
+    "espece" : "fraxinifolia",
+    "adresse" : "JARDIN DU RANELAGH",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 136794.0,
+    "genre" : "Pterocarya",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-40",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2691345, 48.860035 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "77331e92eee6170a3fc3a8f10586f7190d9ef5ac",
+  "fields" : {
+    "geom_x_y" : [ 48.887737, 2.3435032 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 218,
+    "idemplacement" : "00000028",
+    "arrondissement" : "PARIS 18E ARRDT",
+    "circonferenceencm" : 349.0,
+    "hauteurenm" : 27.0,
+    "espece" : "x hispanica",
+    "adresse" : "PARC MARCEL BLEUSTEIN BLANCHET",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 120299.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "18-13",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3435032, 48.887737 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "6b775a370c8ec19223d8b3ed41cee20e15ddc5d2",
+  "fields" : {
+    "geom_x_y" : [ 48.879753, 2.3806632 ],
+    "libellefrancais" : "Sequoia",
+    "objectid" : 4791,
+    "idemplacement" : "K0660013",
+    "arrondissement" : "PARIS 19E ARRDT",
+    "circonferenceencm" : 510.0,
+    "hauteurenm" : 27.0,
+    "espece" : "giganteum",
+    "adresse" : "PARC DES BUTTES CHAUMONT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 102837.0,
+    "genre" : "Sequoiadendron",
+    "varieteoucultivar" : null,
+    "complementadresse" : "19-04",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3806632, 48.879753 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "bea61a26ce42712552431725a930aff33677feb3",
+  "fields" : {
+    "geom_x_y" : [ 48.851357, 2.325132 ],
+    "libellefrancais" : "Lilas de Perse",
+    "objectid" : 29755,
+    "idemplacement" : "00000031",
+    "arrondissement" : "PARIS 7E ARRDT",
+    "circonferenceencm" : 120.0,
+    "hauteurenm" : 10.0,
+    "espece" : "azedarach",
+    "adresse" : "SQUARE BOUCICAUT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 118790.0,
+    "genre" : "Melia",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.325132, 48.851357 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "24514bb17e512fef622d1b359b05abbebc8c9076",
+  "fields" : {
+    "geom_x_y" : [ 48.82101, 2.455515 ],
+    "libellefrancais" : "Pin",
+    "objectid" : 38376,
+    "idemplacement" : "12-20",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 234.0,
+    "hauteurenm" : 17.0,
+    "espece" : "coulteri",
+    "adresse" : "ARBORETUM DE L ECOLE DU BREUIL - ROUTE DE LA FERME / ROUTE DE LA PYRAMIDE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 2002379.0,
+    "genre" : "Pinus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-20",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "2000-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.455515, 48.82101 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "301a63c00c15bb39beda252b0d16b19c7b0c15a2",
+  "fields" : {
+    "geom_x_y" : [ 48.822605, 2.3367012 ],
+    "libellefrancais" : "Hêtre",
+    "objectid" : 83947,
+    "idemplacement" : "031302006",
+    "arrondissement" : "PARIS 14E ARRDT",
+    "circonferenceencm" : 400.0,
+    "hauteurenm" : 25.0,
+    "espece" : "sylvatica",
+    "adresse" : "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 113328.0,
+    "genre" : "Fagus",
+    "varieteoucultivar" : "''Riversii''",
+    "complementadresse" : "Grande pelouse",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3367012, 48.822605 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "619292fe918023a3b823b5ab4cbe0fb376e0c24e",
+  "fields" : {
+    "geom_x_y" : [ 48.86137, 2.258988 ],
+    "libellefrancais" : "Hêtre",
+    "objectid" : 91824,
+    "idemplacement" : "000801001",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 200.0,
+    "hauteurenm" : 10.0,
+    "espece" : "sylvatica",
+    "adresse" : "PETITE ILE DU LAC INFERIEUR",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002393.0,
+    "genre" : "Fagus",
+    "varieteoucultivar" : "''Pendula''",
+    "complementadresse" : "16-11",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1857-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.258988, 48.86137 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "ea2d4cf483817ea3d72e5948e32eaad671488803",
+  "fields" : {
+    "geom_x_y" : [ 48.845905, 2.2530267 ],
+    "libellefrancais" : "Pistachier",
+    "objectid" : 195533,
+    "idemplacement" : "00060050",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 171.0,
+    "hauteurenm" : 10.0,
+    "espece" : "terebinthus",
+    "adresse" : "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 113571.0,
+    "genre" : "Pistacia",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2530267, 48.845905 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "21f4543f6545e19e241b2a2644d1a010331ea125",
+  "fields" : {
+    "geom_x_y" : [ 48.87671, 2.33193 ],
+    "libellefrancais" : "Pterocarya",
+    "objectid" : 224620,
+    "idemplacement" : "00000050",
+    "arrondissement" : "PARIS 9E ARRDT",
+    "circonferenceencm" : 340.0,
+    "hauteurenm" : 26.0,
+    "espece" : "fraxinifolia",
+    "adresse" : "SQUARE D''ESTIENNE D''ORVES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 323350.0,
+    "genre" : "Pterocarya",
+    "varieteoucultivar" : null,
+    "complementadresse" : "09-01",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.33193, 48.87671 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "066f5c08c6295f1021c1f852ca6b628f549e5199",
+  "fields" : {
+    "geom_x_y" : [ 48.847275, 2.2519896 ],
+    "libellefrancais" : "Magnolia",
+    "objectid" : 131660,
+    "idemplacement" : "00040021",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 190.0,
+    "hauteurenm" : 10.0,
+    "espece" : "grandiflora",
+    "adresse" : "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 136305.0,
+    "genre" : "Magnolia",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2519896, 48.847275 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "35e8fe76e63d3d7e7a11b7ba44c76ced0b0b452f",
+  "fields" : {
+    "geom_x_y" : [ 48.88102, 2.3992443 ],
+    "libellefrancais" : "Hêtre",
+    "objectid" : 139519,
+    "idemplacement" : "00000004",
+    "arrondissement" : "PARIS 19E ARRDT",
+    "circonferenceencm" : 276.0,
+    "hauteurenm" : 21.0,
+    "espece" : "sylvatica",
+    "adresse" : "SQUARE DE LA BUTTE DU CHAPEAU ROUGE / 11 BOULEVARD D ALGERIE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 127516.0,
+    "genre" : "Fagus",
+    "varieteoucultivar" : "''Atropunicea''",
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3992443, 48.88102 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "0d337885c2db7d3ed8d214cadace9b3a598ed0c3",
+  "fields" : {
+    "geom_x_y" : [ 48.87704, 2.3805 ],
+    "libellefrancais" : "If",
+    "objectid" : 184562,
+    "idemplacement" : "O1020001",
+    "arrondissement" : "PARIS 19E ARRDT",
+    "circonferenceencm" : 140.0,
+    "hauteurenm" : 13.0,
+    "espece" : "baccata",
+    "adresse" : "PARC DES BUTTES CHAUMONT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 103916.0,
+    "genre" : "Taxus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3805, 48.87704 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "f7a3caeb3b336a451927594924c2f1b51d8a21a3",
+  "fields" : {
+    "geom_x_y" : [ 48.831383, 2.4114313 ],
+    "libellefrancais" : "Plaqueminier",
+    "objectid" : 189957,
+    "idemplacement" : "12-12",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 163.0,
+    "hauteurenm" : 15.0,
+    "espece" : "virginiana",
+    "adresse" : "ILE DE BERCY / LAC DAUMESNIL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 2002360.0,
+    "genre" : "Diospyros",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-12",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1935-01-01T01:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4114313, 48.831383 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "4056b6c79711677fced5159e5e4669b457efd380",
+  "fields" : {
+    "geom_x_y" : [ 48.855804, 2.300303 ],
+    "libellefrancais" : "Plaqueminier",
+    "objectid" : 199882,
+    "idemplacement" : "P00905010",
+    "arrondissement" : "PARIS 7E ARRDT",
+    "circonferenceencm" : 118.0,
+    "hauteurenm" : 14.0,
+    "espece" : "kaki",
+    "adresse" : "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 106715.0,
+    "genre" : "Diospyros",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Canton 09",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.300303, 48.855804 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "be3cd7fa897d0f0695240b3daddd27d1b8467223",
+  "fields" : {
+    "geom_x_y" : [ 48.83302, 2.3499153 ],
+    "libellefrancais" : "Chêne",
+    "objectid" : 203072,
+    "idemplacement" : "00010268",
+    "arrondissement" : "PARIS 13E ARRDT",
+    "circonferenceencm" : 140.0,
+    "hauteurenm" : 15.0,
+    "espece" : "cerris",
+    "adresse" : "SQUARE RENE LE GALL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 104839.0,
+    "genre" : "Quercus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "13-04",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3499153, 48.83302 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "1eaa76641bf2c672125f0649f2a4cf8fb6d769f6",
+  "fields" : {
+    "geom_x_y" : [ 48.865036, 2.4009318 ],
+    "libellefrancais" : "Marronnier",
+    "objectid" : 14772,
+    "idemplacement" : "000102006",
+    "arrondissement" : "PARIS 20E ARRDT",
+    "circonferenceencm" : 380.0,
+    "hauteurenm" : 26.0,
+    "espece" : "hippocastanum",
+    "adresse" : "SQUARE EDOUARD VAILLANT / 50 AVENUE GAMBETTA",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 121923.0,
+    "genre" : "Aesculus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "20-04",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4009318, 48.865036 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "f3151d2258c946c7dd1e3fb120d4f327ce40cf03",
+  "fields" : {
+    "geom_x_y" : [ 48.887688, 2.3164592 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 128684,
+    "idemplacement" : "00000206",
+    "arrondissement" : "PARIS 17E ARRDT",
+    "circonferenceencm" : 597.0,
+    "hauteurenm" : 34.0,
+    "espece" : "x hispanica",
+    "adresse" : "SQUARE DES BATIGNOLLES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 135397.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "17-10",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1850-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3164592, 48.887688 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "34dc23fc8459e9991c0d5a100a910b58ed7771ad",
+  "fields" : {
+    "geom_x_y" : [ 48.83382, 2.4112194 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 177600,
+    "idemplacement" : "12-14",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 482.0,
+    "hauteurenm" : 26.0,
+    "espece" : "x hispanica",
+    "adresse" : "ROUTE DE LA CEINTURE DU LAC DAUMESNIL - LAC DAUMESNIL / PORTE DOREE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002366.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-14",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1860-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4112194, 48.83382 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "e2b157cbdb4c5be81f07a8cdbd92dd468e51fe33",
+  "fields" : {
+    "geom_x_y" : [ 48.86339, 2.3968465 ],
+    "libellefrancais" : "Arbre aux quarante écus",
+    "objectid" : 191669,
+    "idemplacement" : "D00000084016",
+    "arrondissement" : "PARIS 20E ARRDT",
+    "circonferenceencm" : 165.0,
+    "hauteurenm" : 20.0,
+    "espece" : "biloba",
+    "adresse" : "CIMETIERE DU PERE LACHAISE / DIV 84",
+    "domanialite" : "CIMETIERE",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 158457.0,
+    "genre" : "Ginkgo",
+    "varieteoucultivar" : null,
+    "complementadresse" : "20-12",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3968465, 48.86339 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "580146203610404dc8ec0ae6e0d2532d796fe982",
+  "fields" : {
+    "geom_x_y" : [ 48.887527, 2.3161788 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 201305,
+    "idemplacement" : "00000187",
+    "arrondissement" : "PARIS 17E ARRDT",
+    "circonferenceencm" : 452.0,
+    "hauteurenm" : 30.0,
+    "espece" : "orientalis",
+    "adresse" : "SQUARE DES BATIGNOLLES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 135378.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "17-08",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3161788, 48.887527 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "748ea369835ac5420e3b5551c6ad7934e74a7ef6",
+  "fields" : {
+    "geom_x_y" : [ 48.84265, 2.296089 ],
+    "libellefrancais" : "Micocoulier",
+    "objectid" : 2972,
+    "idemplacement" : "00000151",
+    "arrondissement" : "PARIS 15E ARRDT",
+    "circonferenceencm" : 225.0,
+    "hauteurenm" : 18.0,
+    "espece" : "australis",
+    "adresse" : "SQUARE SAINT-LAMBERT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 112222.0,
+    "genre" : "Celtis",
+    "varieteoucultivar" : null,
+    "complementadresse" : "15-05",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.296089, 48.84265 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "ed3ef7ad5d16ec59c77b5e3670d33eb58ef9a37d",
+  "fields" : {
+    "geom_x_y" : [ 48.81839, 2.4379184 ],
+    "libellefrancais" : "Chêne",
+    "objectid" : 8213,
+    "idemplacement" : "12-15",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 245.0,
+    "hauteurenm" : 20.0,
+    "espece" : "ilex",
+    "adresse" : "PENTE DE GRAVELLE - AVENUE DE GRAVELLE / ROUTE NOUVELLE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002385.0,
+    "genre" : "Quercus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-15",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1860-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4379184, 48.81839 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "d140e630d19522ec6acea62919ef687b15a6928c",
+  "fields" : {
+    "geom_x_y" : [ 48.86339, 2.2404811 ],
+    "libellefrancais" : "Cèdre",
+    "objectid" : 10257,
+    "idemplacement" : "000301002",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 468.0,
+    "hauteurenm" : 25.0,
+    "espece" : "libani",
+    "adresse" : "GRANDE CASCADE - CARREFOUR DE LONGCHAMP",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002348.0,
+    "genre" : "Cedrus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-09",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1862-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2404811, 48.86339 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "5b25c80ee57d9c9c20801d3df5a38e8c165530e2",
+  "fields" : {
+    "geom_x_y" : [ 48.868572, 2.3133256 ],
+    "libellefrancais" : "Libocèdre",
+    "objectid" : 23708,
+    "idemplacement" : "000104002",
+    "arrondissement" : "PARIS 8E ARRDT",
+    "circonferenceencm" : 209.0,
+    "hauteurenm" : 22.0,
+    "espece" : "decurrens",
+    "adresse" : "JARDINS DES CHAMPS ELYSEES - SQUARE MARIGNY / 41 AVENUE GABRIEL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 307478.0,
+    "genre" : "Calocedrus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Secteur Marigny",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3133256, 48.868572 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "b88258f40cfdf535a17bca733017e30a1ce76d98",
+  "fields" : {
+    "geom_x_y" : [ 48.839523, 2.433341 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 45345,
+    "idemplacement" : "12-01",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 607.0,
+    "hauteurenm" : 30.0,
+    "espece" : "x hispanica",
+    "adresse" : "SQUARE CARNOT - AVENUE DAUMESNIL / ESPLANADE DU CHATEAU DE VINCENNES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002371.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-01",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1918-01-01T01:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.433341, 48.839523 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "e63800e67f7f0b48d7fa2e3c62452d47c9c0a6f9",
+  "fields" : {
+    "geom_x_y" : [ 48.86525, 2.3133519 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 103999,
+    "idemplacement" : "000109003",
+    "arrondissement" : "PARIS 8E ARRDT",
+    "circonferenceencm" : 583.0,
+    "hauteurenm" : 29.0,
+    "espece" : "x hispanica",
+    "adresse" : "JARDINS DES CHAMPS ELYSEES - ABORDS OUEST DU GRAND PALAIS / 7 AVENUE WINSTON CHURCHILL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 302598.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Secteur Grand Palais",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3133519, 48.86525 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "bdde6361f995c7fa1e23f7c895647b97cb126c65",
+  "fields" : {
+    "geom_x_y" : [ 48.82179, 2.3228498 ],
+    "libellefrancais" : "Hêtre",
+    "objectid" : 207820,
+    "idemplacement" : "00000174",
+    "arrondissement" : "PARIS 14E ARRDT",
+    "circonferenceencm" : 310.0,
+    "hauteurenm" : 15.0,
+    "espece" : "sylvatica",
+    "adresse" : "SQUARE DU SERMENT DE KOUFRA",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 121632.0,
+    "genre" : "Fagus",
+    "varieteoucultivar" : "''Atropunicea''",
+    "complementadresse" : "14-09",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3228498, 48.82179 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "e89f77a6c0b263b0fdbb8e230356c5c64871d144",
+  "fields" : {
+    "geom_x_y" : [ 48.847782, 2.253723 ],
+    "libellefrancais" : "Bouleau",
+    "objectid" : 166842,
+    "idemplacement" : "00030015",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 215.0,
+    "hauteurenm" : 20.0,
+    "espece" : "nigra",
+    "adresse" : "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 136460.0,
+    "genre" : "Betula",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1982-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.253723, 48.847782 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "9aee6266e57321a20a9272f9ef78c9f3dfe4846a",
+  "fields" : {
+    "geom_x_y" : [ 48.887238, 2.317163 ],
+    "libellefrancais" : "Pterocarya",
+    "objectid" : 169601,
+    "idemplacement" : "00000072",
+    "arrondissement" : "PARIS 17E ARRDT",
+    "circonferenceencm" : 397.0,
+    "hauteurenm" : 30.0,
+    "espece" : "fraxinifolia",
+    "adresse" : "SQUARE DES BATIGNOLLES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 135262.0,
+    "genre" : "Pterocarya",
+    "varieteoucultivar" : null,
+    "complementadresse" : "17-07",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.317163, 48.887238 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "a4d8df01751742087ed6a45c259491cf5c88dbaa",
+  "fields" : {
+    "geom_x_y" : [ 48.866974, 2.3195152 ],
+    "libellefrancais" : "Sequoia",
+    "objectid" : 185658,
+    "idemplacement" : "000103001",
+    "arrondissement" : "PARIS 8E ARRDT",
+    "circonferenceencm" : 335.0,
+    "hauteurenm" : 19.0,
+    "espece" : "giganteum",
+    "adresse" : "JARDINS DES CHAMPS ELYSEES - JARDIN DES AMBASSADEURS / 10 AVENUE DES CHAMPS ELYSEES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 302514.0,
+    "genre" : "Sequoiadendron",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Secteur Ambassadeurs",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3195152, 48.866974 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "070988150583fd025d9f61e1afae1cebc9f78b50",
+  "fields" : {
+    "geom_x_y" : [ 48.885677, 2.3447251 ],
+    "libellefrancais" : "Oranger des Osages",
+    "objectid" : 200607,
+    "idemplacement" : "00000141",
+    "arrondissement" : "PARIS 18E ARRDT",
+    "circonferenceencm" : 209.0,
+    "hauteurenm" : 18.0,
+    "espece" : "pomifera",
+    "adresse" : "SQUARE LOUISE MICHEL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 120530.0,
+    "genre" : "Maclura",
+    "varieteoucultivar" : null,
+    "complementadresse" : "18-11",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3447251, 48.885677 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "9aa3482197eb97576d0a0a13a2bdfc92bcc7565a",
+  "fields" : {
+    "geom_x_y" : [ 48.8557, 2.2963743 ],
+    "libellefrancais" : "Lilas de Perse",
+    "objectid" : 201279,
+    "idemplacement" : "P00411006",
+    "arrondissement" : "PARIS 7E ARRDT",
+    "circonferenceencm" : 136.0,
+    "hauteurenm" : 10.0,
+    "espece" : "azedarach",
+    "adresse" : "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 107079.0,
+    "genre" : "Melia",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Canton 04",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2963743, 48.8557 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "86f618f05264377424e2915ec7d3f384e3302488",
+  "fields" : {
+    "geom_x_y" : [ 48.846565, 2.25242 ],
+    "libellefrancais" : "Chêne",
+    "objectid" : 210317,
+    "idemplacement" : "00040039",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 233.0,
+    "hauteurenm" : 13.0,
+    "espece" : "ilex",
+    "adresse" : "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 136323.0,
+    "genre" : "Quercus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.25242, 48.846565 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "1e117a92668b68e0e9bdb02dce4916facc310ae2",
+  "fields" : {
+    "geom_x_y" : [ 48.88462, 2.3439243 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 51786,
+    "idemplacement" : "00000201",
+    "arrondissement" : "PARIS 18E ARRDT",
+    "circonferenceencm" : 520.0,
+    "hauteurenm" : 28.0,
+    "espece" : "orientalis",
+    "adresse" : "SQUARE LOUISE MICHEL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 120588.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "18-01",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3439243, 48.88462 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "969b2aa430370aa5035803b26ce7dd0f18eacb5e",
+  "fields" : {
+    "geom_x_y" : [ 48.872902, 2.2905655 ],
+    "libellefrancais" : "Mûrier",
+    "objectid" : 72593,
+    "idemplacement" : "000103010",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 156.0,
+    "hauteurenm" : 8.0,
+    "espece" : "nigra",
+    "adresse" : "JARDIN DE L AVENUE FOCH / 10 AVENUE FOCH",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 114685.0,
+    "genre" : "Morus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "PELOUSE 14 - 11 à 27",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2905655, 48.872902 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "7e4dbfa2c2d8c16f44e4055ddbfbf230ddaccc85",
+  "fields" : {
+    "geom_x_y" : [ 48.863262, 2.2407248 ],
+    "libellefrancais" : "Cyprès Chauve",
+    "objectid" : 79655,
+    "idemplacement" : "000301001",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 311.0,
+    "hauteurenm" : 28.0,
+    "espece" : "distichum",
+    "adresse" : "GRANDE CASCADE - CARREFOUR DE LONGCHAMP",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002347.0,
+    "genre" : "Taxodium",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-07",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1859-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2407248, 48.863262 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "8feca214510169628a1237f0c8f23d78ec9091db",
+  "fields" : {
+    "geom_x_y" : [ 48.885952, 2.3416798 ],
+    "libellefrancais" : "Sophora",
+    "objectid" : 229260,
+    "idemplacement" : "000102003",
+    "arrondissement" : "PARIS 18E ARRDT",
+    "circonferenceencm" : 307.0,
+    "hauteurenm" : 16.0,
+    "espece" : "japonica",
+    "adresse" : "SQUARE NADAR / 2 RUE SAINT ELEUTHERE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 120761.0,
+    "genre" : "Sophora",
+    "varieteoucultivar" : null,
+    "complementadresse" : "18-07",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3416798, 48.885952 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "e705cb09564471d4b6b8a5718d9739e7b91d5075",
+  "fields" : {
+    "geom_x_y" : [ 48.824135, 2.3379657 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 112579,
+    "idemplacement" : "0417B1018",
+    "arrondissement" : "PARIS 14E ARRDT",
+    "circonferenceencm" : 370.0,
+    "hauteurenm" : 25.0,
+    "espece" : "x hispanica",
+    "adresse" : "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 112897.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Talus du Lac",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3379657, 48.824135 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "1fbac52c06a7fc178cf290b8450d7ab21017837f",
+  "fields" : {
+    "geom_x_y" : [ 48.842827, 2.2972853 ],
+    "libellefrancais" : "Aulne",
+    "objectid" : 138114,
+    "idemplacement" : "00000087",
+    "arrondissement" : "PARIS 15E ARRDT",
+    "circonferenceencm" : 225.0,
+    "hauteurenm" : 18.0,
+    "espece" : "n. sp.",
+    "adresse" : "SQUARE SAINT-LAMBERT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 111640.0,
+    "genre" : "Alnus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "15-02",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2972853, 48.842827 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "3dbb6980f22691c9d0d040a33d62e11401d7922c",
+  "fields" : {
+    "geom_x_y" : [ 48.857803, 2.3957407 ],
+    "libellefrancais" : "Arbre à Gutta-Percha",
+    "objectid" : 210086,
+    "idemplacement" : "D00000075015",
+    "arrondissement" : "PARIS 20E ARRDT",
+    "circonferenceencm" : 130.0,
+    "hauteurenm" : 14.0,
+    "espece" : "ulmoides",
+    "adresse" : "CIMETIERE DU PERE LACHAISE / DIV 75",
+    "domanialite" : "CIMETIERE",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 155948.0,
+    "genre" : "Eucommia",
+    "varieteoucultivar" : null,
+    "complementadresse" : "20-11",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3957407, 48.857803 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "66d07f0ba39632f9b935d2ed813a7e3df3f80d39",
+  "fields" : {
+    "geom_x_y" : [ 48.840878, 2.392105 ],
+    "libellefrancais" : "Libocèdre",
+    "objectid" : 181662,
+    "idemplacement" : "00000005",
+    "arrondissement" : "PARIS 12E ARRDT",
+    "circonferenceencm" : 205.0,
+    "hauteurenm" : 20.0,
+    "espece" : "decurrens",
+    "adresse" : "JARDIN DE LA GARE DE REUILLY",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 125236.0,
+    "genre" : "Calocedrus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-33",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.392105, 48.840878 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "4239f30f4313201b0bb66d4acc073f155937a495",
+  "fields" : {
+    "geom_x_y" : [ 48.831215, 2.4116774 ],
+    "libellefrancais" : "Cryptomeria",
+    "objectid" : 230039,
+    "idemplacement" : "12-13",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 122.0,
+    "hauteurenm" : 13.0,
+    "espece" : "japonica",
+    "adresse" : "ILE DE BERCY / LAC DAUMESNIL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002359.0,
+    "genre" : "Cryptomeria",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-13",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1893-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4116774, 48.831215 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "30737f467e00d73f9f96ec4d7e272f49c1dd3e46",
+  "fields" : {
+    "geom_x_y" : [ 48.823345, 2.3396835 ],
+    "libellefrancais" : "Hêtre",
+    "objectid" : 144807,
+    "idemplacement" : "041501007",
+    "arrondissement" : "PARIS 14E ARRDT",
+    "circonferenceencm" : 145.0,
+    "hauteurenm" : 5.0,
+    "espece" : "sylvatica",
+    "adresse" : "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 110444.0,
+    "genre" : "Fagus",
+    "varieteoucultivar" : "''Tortuosa''",
+    "complementadresse" : "Lac et Berges",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3396835, 48.823345 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "b1c1bd8c3f852c84f8359ca9b989eeabe6f17e02",
+  "fields" : {
+    "geom_x_y" : [ 48.852192, 2.3472917 ],
+    "libellefrancais" : "Robinier",
+    "objectid" : 172046,
+    "idemplacement" : "00000058",
+    "arrondissement" : "PARIS 5E ARRDT",
+    "circonferenceencm" : 365.0,
+    "hauteurenm" : 9.0,
+    "espece" : "pseudoacacia",
+    "adresse" : "SQUARE RENE VIVIANI",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 124358.0,
+    "genre" : "Robinia",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1602-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3472917, 48.852192 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "79ec39f4c872550a403b44887035c18d7bd5abd8",
+  "fields" : {
+    "geom_x_y" : [ 48.82184, 2.335786 ],
+    "libellefrancais" : "Chêne",
+    "objectid" : 192102,
+    "idemplacement" : "0311B1011",
+    "arrondissement" : "PARIS 14E ARRDT",
+    "circonferenceencm" : 250.0,
+    "hauteurenm" : 15.0,
+    "espece" : "ilex",
+    "adresse" : "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 110934.0,
+    "genre" : "Quercus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Volcan / Puits",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.335786, 48.82184 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "a59b1b3dd3211de8b2ad843d9c993eeab4dea539",
+  "fields" : {
+    "geom_x_y" : [ 48.864838, 2.3606255 ],
+    "libellefrancais" : "Noisetier de Byzance",
+    "objectid" : 6469,
+    "idemplacement" : "000102007",
+    "arrondissement" : "PARIS 3E ARRDT",
+    "circonferenceencm" : 226.0,
+    "hauteurenm" : 25.0,
+    "espece" : "colurna",
+    "adresse" : "SQUARE DU TEMPLE / 50 RUE DE BRETAGNE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 116886.0,
+    "genre" : "Corylus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "03-05",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3606255, 48.864838 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "c0bc4b1510c9ca9ab988a5d5c6b98aa9d00b3cc8",
+  "fields" : {
+    "geom_x_y" : [ 48.865833, 2.4000828 ],
+    "libellefrancais" : "Noisetier de Byzance",
+    "objectid" : 24458,
+    "idemplacement" : "000201005",
+    "arrondissement" : "PARIS 20E ARRDT",
+    "circonferenceencm" : 160.0,
+    "hauteurenm" : 16.0,
+    "espece" : "colurna",
+    "adresse" : "SQUARE EDOUARD VAILLANT / 50 AVENUE GAMBETTA",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 121940.0,
+    "genre" : "Corylus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "20-06",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4000828, 48.865833 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "329161d65bc180d77e1f9a73dc4f0c2eaf8a79a1",
+  "fields" : {
+    "geom_x_y" : [ 48.857773, 2.2972457 ],
+    "libellefrancais" : "Arbre à Gutta-Percha",
+    "objectid" : 52911,
+    "idemplacement" : "P00607004",
+    "arrondissement" : "PARIS 7E ARRDT",
+    "circonferenceencm" : 195.0,
+    "hauteurenm" : 15.0,
+    "espece" : "ulmoides",
+    "adresse" : "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 107696.0,
+    "genre" : "Eucommia",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Canton 06",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2972457, 48.857773 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "f16a3f935866f098ec87b5d29168237a01be4697",
+  "fields" : {
+    "geom_x_y" : [ 48.858753, 2.2954993 ],
+    "libellefrancais" : "Hêtre",
+    "objectid" : 73921,
+    "idemplacement" : "P00306006",
+    "arrondissement" : "PARIS 7E ARRDT",
+    "circonferenceencm" : 195.0,
+    "hauteurenm" : 7.0,
+    "espece" : "sylvatica",
+    "adresse" : "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE / SETE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 108183.0,
+    "genre" : "Fagus",
+    "varieteoucultivar" : "''Pendula''",
+    "complementadresse" : "Canton 03 / SETE",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2954993, 48.858753 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "4a43332b80f4aa3d45c2cec9f884c4796f6cd54a",
+  "fields" : {
+    "geom_x_y" : [ 48.878582, 2.3075597 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 81811,
+    "idemplacement" : "00SO0222",
+    "arrondissement" : "PARIS 8E ARRDT",
+    "circonferenceencm" : 645.0,
+    "hauteurenm" : 31.0,
+    "espece" : "orientalis",
+    "adresse" : "PARC MONCEAU",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 313940.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "08-02",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3075597, 48.878582 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "32d1890bdd27b180c3794463d9c60066bd280394",
+  "fields" : {
+    "geom_x_y" : [ 48.832077, 2.411817 ],
+    "libellefrancais" : "If",
+    "objectid" : 91380,
+    "idemplacement" : "12-08",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 101.0,
+    "hauteurenm" : 5.0,
+    "espece" : "baccata",
+    "adresse" : "ILE DE BERCY / LAC DAUMESNIL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 2002362.0,
+    "genre" : "Taxus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-08",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1870-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.411817, 48.832077 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "ec381a434fe5ad88e1186082b9dd4e029d98c99b",
+  "fields" : {
+    "geom_x_y" : [ 48.85828, 2.3626528 ],
+    "libellefrancais" : "Figuier",
+    "objectid" : 110952,
+    "idemplacement" : "000101002",
+    "arrondissement" : "PARIS 3E ARRDT",
+    "circonferenceencm" : 145.0,
+    "hauteurenm" : 10.0,
+    "espece" : "carica",
+    "adresse" : "SQUARE GEORGES CAIN / 8 RUE PAYENNE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 116020.0,
+    "genre" : "Ficus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "03-01",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3626528, 48.85828 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "2ae54c9d35afeadcb1fa8744653d244850aa7bc7",
+  "fields" : {
+    "geom_x_y" : [ 48.862907, 2.2615705 ],
+    "libellefrancais" : "Arbre aux quarante écus",
+    "objectid" : 135182,
+    "idemplacement" : "000101002",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 210.0,
+    "hauteurenm" : 17.0,
+    "espece" : "biloba",
+    "adresse" : "BERGE DU LAC INFERIEUR - CHEMIN DE CEINTURE DU LAC INFERIEUR",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002391.0,
+    "genre" : "Ginkgo",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-01",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1893-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2615705, 48.862907 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "d78fd14651079d5f9f2d7f05160ba75222f04d26",
+  "fields" : {
+    "geom_x_y" : [ 48.833435, 2.412798 ],
+    "libellefrancais" : "Noyer",
+    "objectid" : 200267,
+    "idemplacement" : "12-04",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 585.0,
+    "hauteurenm" : 26.0,
+    "espece" : "nigra",
+    "adresse" : "ROUTE DE LA CEINTURE DU LAC DAUMESNIL - LAC DAUMESNIL / PORTE DOREE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 2002367.0,
+    "genre" : "Juglans",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-04",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1845-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.412798, 48.833435 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "008556dee0ea1dfaa81157dc507aebcde2146924",
+  "fields" : {
+    "geom_x_y" : [ 48.864834, 2.2521746 ],
+    "libellefrancais" : "Plaqueminier",
+    "objectid" : 201630,
+    "idemplacement" : "000501002",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 146.0,
+    "hauteurenm" : 15.0,
+    "espece" : "kaki",
+    "adresse" : "JARDIN DU PRE CATELAN - CARREFOUR DE LA GRANDE CASCADE / CARREFOUR DE LA CROIX CATELAN",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 2002388.0,
+    "genre" : "Diospyros",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-13",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1897-01-01T01:09:21+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2521746, 48.864834 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "971a21a0ba5d7f95d79d23fa112d85e8366b6730",
+  "fields" : {
+    "geom_x_y" : [ 48.8642, 2.2679603 ],
+    "libellefrancais" : "Hêtre",
+    "objectid" : 39015,
+    "idemplacement" : "470306001",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 320.0,
+    "hauteurenm" : 15.0,
+    "espece" : "sylvatica",
+    "adresse" : "STADE DE LA PORTE DE LA MUETTE / 60 BOULEVARD LANNES",
+    "domanialite" : "DJS",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 201570.0,
+    "genre" : "Fagus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-38",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2679603, 48.8642 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "b8eddfe8483fa365426a35bbe4fb51f6c3652bed",
+  "fields" : {
+    "geom_x_y" : [ 48.88523, 2.3427055 ],
+    "libellefrancais" : "Pterocarya",
+    "objectid" : 45679,
+    "idemplacement" : "00000033",
+    "arrondissement" : "PARIS 18E ARRDT",
+    "circonferenceencm" : 418.0,
+    "hauteurenm" : 28.0,
+    "espece" : "fraxinifolia",
+    "adresse" : "SQUARE LOUISE MICHEL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 112542.0,
+    "genre" : "Pterocarya",
+    "varieteoucultivar" : null,
+    "complementadresse" : "18-10",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3427055, 48.88523 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "291276750bb01a19ed91cfbc37983c9330bd0cb2",
+  "fields" : {
+    "geom_x_y" : [ 48.8465, 2.2522671 ],
+    "libellefrancais" : "Tulipier",
+    "objectid" : 85146,
+    "idemplacement" : "00040037",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 210.0,
+    "hauteurenm" : 23.0,
+    "espece" : "tulipifera",
+    "adresse" : "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 136321.0,
+    "genre" : "Liriodendron",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2522671, 48.8465 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "8ee1115f0955e9dfe1cc3310a120fd0dce945a39",
+  "fields" : {
+    "geom_x_y" : [ 48.855793, 2.3002644 ],
+    "libellefrancais" : "Plaqueminier",
+    "objectid" : 92142,
+    "idemplacement" : "P00905009",
+    "arrondissement" : "PARIS 7E ARRDT",
+    "circonferenceencm" : 163.0,
+    "hauteurenm" : 13.0,
+    "espece" : "lotus",
+    "adresse" : "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 106714.0,
+    "genre" : "Diospyros",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Canton 09",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3002644, 48.855793 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "719843febd29d0f9d72d479078282794f86c82de",
+  "fields" : {
+    "geom_x_y" : [ 48.884476, 2.343066 ],
+    "libellefrancais" : "Marronnier",
+    "objectid" : 95794,
+    "idemplacement" : "00000002",
+    "arrondissement" : "PARIS 18E ARRDT",
+    "circonferenceencm" : 365.0,
+    "hauteurenm" : 21.0,
+    "espece" : "hippocastanum",
+    "adresse" : "SQUARE LOUISE MICHEL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 112503.0,
+    "genre" : "Aesculus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "18-14",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.343066, 48.884476 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "79aead751a2cfe98b1f354d1c9745f8430e0b132",
+  "fields" : {
+    "geom_x_y" : [ 48.861855, 2.3790877 ],
+    "libellefrancais" : "Noisetier de Byzance",
+    "objectid" : 110722,
+    "idemplacement" : "000201002",
+    "arrondissement" : "PARIS 11E ARRDT",
+    "circonferenceencm" : 265.0,
+    "hauteurenm" : 21.0,
+    "espece" : "colurna",
+    "adresse" : "SQUARE MAURICE GARDETTE / 8 RUE GENERAL BLAISE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 124914.0,
+    "genre" : "Corylus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "11-01",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1882-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3790877, 48.861855 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "6d2902b3ef9399d682148f26cd089a600b2112e8",
+  "fields" : {
+    "geom_x_y" : [ 48.863964, 2.2513497 ],
+    "libellefrancais" : "Pin",
+    "objectid" : 156261,
+    "idemplacement" : "000501001",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 330.0,
+    "hauteurenm" : 27.0,
+    "espece" : "nigra",
+    "adresse" : "JARDIN DU PRE CATELAN - CARREFOUR DE LA GRANDE CASCADE / CARREFOUR DE LA CROIX CATELAN",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 2002395.0,
+    "genre" : "Pinus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-16",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "2000-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2513497, 48.863964 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "a34551299c8d45e13b680264df8581eb22d7325d",
+  "fields" : {
+    "geom_x_y" : [ 48.84717, 2.252866 ],
+    "libellefrancais" : "Chêne",
+    "objectid" : 172952,
+    "idemplacement" : "00040054",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 217.0,
+    "hauteurenm" : 11.0,
+    "espece" : "suber subsp. Occidentalis",
+    "adresse" : "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 136338.0,
+    "genre" : "Quercus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1895-01-01T01:09:21+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.252866, 48.84717 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "96c9f9cdbdf5f8a7432697573da85f40c3ce61a7",
+  "fields" : {
+    "geom_x_y" : [ 48.861935, 2.3987105 ],
+    "libellefrancais" : "Erable",
+    "objectid" : 195815,
+    "idemplacement" : "D00000077020",
+    "arrondissement" : "PARIS 20E ARRDT",
+    "circonferenceencm" : 232.0,
+    "hauteurenm" : 14.0,
+    "espece" : "monspessulanum",
+    "adresse" : "CIMETIERE DU PERE LACHAISE / DIV 77",
+    "domanialite" : "CIMETIERE",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 140495.0,
+    "genre" : "Acer",
+    "varieteoucultivar" : null,
+    "complementadresse" : "20-07",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3987105, 48.861935 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "07ec3311abac5f7c95c78080bc8802034a1c3c0c",
+  "fields" : {
+    "geom_x_y" : [ 48.866127, 2.262548 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 211091,
+    "idemplacement" : "000401001",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 380.0,
+    "hauteurenm" : 26.0,
+    "espece" : "orientalis",
+    "adresse" : "ILE DU LAC INFERIEUR",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002398.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-04",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1859-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.262548, 48.866127 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "96ea9138f84ca3387edb1d2c67866de6fd0b5483",
+  "fields" : {
+    "geom_x_y" : [ 48.828842, 2.3497646 ],
+    "libellefrancais" : "Figuier",
+    "objectid" : 2054,
+    "idemplacement" : "00000028",
+    "arrondissement" : "PARIS 13E ARRDT",
+    "circonferenceencm" : 120.0,
+    "hauteurenm" : 4.0,
+    "espece" : "carica",
+    "adresse" : "JARDIN BRASSAI / 2 RUE EUGENE ATGET",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 138456.0,
+    "genre" : "Ficus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3497646, 48.828842 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "18114ce1b0d67717eb3c0ec32084293bfec130a4",
+  "fields" : {
+    "geom_x_y" : [ 48.862453, 2.289591 ],
+    "libellefrancais" : "Sequoia",
+    "objectid" : 30405,
+    "idemplacement" : "001005001",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 182.0,
+    "hauteurenm" : 15.0,
+    "espece" : "sempervirens",
+    "adresse" : "JARDINS DU TROCADERO / 3 PLACE DE VARSOVIE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 108277.0,
+    "genre" : "Sequoia",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Canton 10",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.289591, 48.862453 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "e2e0acd538e99cda1284fbc4ee202dff98a17aa2",
+  "fields" : {
+    "geom_x_y" : [ 48.83199, 2.4119925 ],
+    "libellefrancais" : "Tulipier",
+    "objectid" : 93439,
+    "idemplacement" : "12-09",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 214.0,
+    "hauteurenm" : 21.0,
+    "espece" : "tulipifera",
+    "adresse" : "ILE DE BERCY / LAC DAUMESNIL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 2002361.0,
+    "genre" : "Liriodendron",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-09",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1930-01-01T01:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4119925, 48.83199 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "60c0c24110b5541b40d4e5ce66477f62344f4abc",
+  "fields" : {
+    "geom_x_y" : [ 48.86481, 2.233706 ],
+    "libellefrancais" : "Saule",
+    "objectid" : 94243,
+    "idemplacement" : "000201001",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 285.0,
+    "hauteurenm" : 10.0,
+    "espece" : "babylonica",
+    "adresse" : "ETANG DE SURESNES / ROUTE DE SURESNES - ROUTE DES MOULINS",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2009036.0,
+    "genre" : "Salix",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-61",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1901-01-01T01:09:21+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.233706, 48.86481 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "6d665394d7eac9bfd346b30aab09c4fae26911b1",
+  "fields" : {
+    "geom_x_y" : [ 48.869133, 2.2722483 ],
+    "libellefrancais" : "Chicot du Canada",
+    "objectid" : 202627,
+    "idemplacement" : "00000007",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 185.0,
+    "hauteurenm" : 12.0,
+    "espece" : "dioica",
+    "adresse" : "SQUARE ROBERT SCHUMAN",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 139108.0,
+    "genre" : "Gymnocladus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-42",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2722483, 48.869133 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "66f3e3943fe4fb6f7cb0979889a9dc090cecb3cb",
+  "fields" : {
+    "geom_x_y" : [ 48.857418, 2.3147252 ],
+    "libellefrancais" : "Magnolia",
+    "objectid" : 227616,
+    "idemplacement" : "000202001",
+    "arrondissement" : "PARIS 7E ARRDT",
+    "circonferenceencm" : 155.0,
+    "hauteurenm" : 13.0,
+    "espece" : "grandiflora",
+    "adresse" : "SQUARE D AJACCIO / 127 RUE DE GRENELLE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 109016.0,
+    "genre" : "Magnolia",
+    "varieteoucultivar" : null,
+    "complementadresse" : "07-10",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3147252, 48.857418 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "2eec4dcc28219e5d815c9d3bc3108d21c0ce0c95",
+  "fields" : {
+    "geom_x_y" : [ 48.822025, 2.336277 ],
+    "libellefrancais" : "Sequoia",
+    "objectid" : 124701,
+    "idemplacement" : "0311D1001",
+    "arrondissement" : "PARIS 14E ARRDT",
+    "circonferenceencm" : 355.0,
+    "hauteurenm" : 20.0,
+    "espece" : "sempervirens",
+    "adresse" : "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 113353.0,
+    "genre" : "Sequoia",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Volcan / Puits",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.336277, 48.822025 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "87f26a4b78c0addc99046ec014a40bf7aaf207d3",
+  "fields" : {
+    "geom_x_y" : [ 48.88233, 2.3102453 ],
+    "libellefrancais" : "Marronnier",
+    "objectid" : 147729,
+    "idemplacement" : "00000013",
+    "arrondissement" : "PARIS 17E ARRDT",
+    "circonferenceencm" : 385.0,
+    "hauteurenm" : 25.0,
+    "espece" : "hippocastanum",
+    "adresse" : "PELOUSES DE LA PLACE DU GENERAL CATROUX",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 128154.0,
+    "genre" : "Aesculus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3102453, 48.88233 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "c19132bff8dc340d6ae08cf265eb78142c1acbe7",
+  "fields" : {
+    "geom_x_y" : [ 48.893356, 2.3468206 ],
+    "libellefrancais" : "Cedrele",
+    "objectid" : 165012,
+    "idemplacement" : "00000009",
+    "arrondissement" : "PARIS 18E ARRDT",
+    "circonferenceencm" : 238.0,
+    "hauteurenm" : 17.0,
+    "espece" : "sinensis",
+    "adresse" : "SQUARE KRIEGEL - VALRIMONT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 120016.0,
+    "genre" : "Toona",
+    "varieteoucultivar" : null,
+    "complementadresse" : "18-08",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3468206, 48.893356 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "c25c9a30119b5d510bb4102cb3db38036b991c8d",
+  "fields" : {
+    "geom_x_y" : [ 48.856476, 2.3946185 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 212344,
+    "idemplacement" : "001802036",
+    "arrondissement" : "PARIS 20E ARRDT",
+    "circonferenceencm" : 407.0,
+    "hauteurenm" : 23.0,
+    "espece" : "x hispanica",
+    "adresse" : "BOULEVARD DE CHARONNE",
+    "domanialite" : "Alignement",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 223748.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "148",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3946185, 48.856476 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "7d707223f08ff7cff2c11036d9acc7b63ae7e228",
+  "fields" : {
+    "geom_x_y" : [ 48.86482, 2.2526762 ],
+    "libellefrancais" : "Sequoia",
+    "objectid" : 222203,
+    "idemplacement" : "000501003",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 634.0,
+    "hauteurenm" : 32.0,
+    "espece" : "giganteum",
+    "adresse" : "JARDIN DU PRE CATELAN - CARREFOUR DE LA GRANDE CASCADE / CARREFOUR DE LA CROIX CATELAN",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 2002394.0,
+    "genre" : "Sequoiadendron",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-14",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1872-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2526762, 48.86482 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "ae4b21d572cd6730e03761875c8f51140024e823",
+  "fields" : {
+    "geom_x_y" : [ 48.84282, 2.2968826 ],
+    "libellefrancais" : "Erable",
+    "objectid" : 16911,
+    "idemplacement" : "00000084",
+    "arrondissement" : "PARIS 15E ARRDT",
+    "circonferenceencm" : 240.0,
+    "hauteurenm" : 20.0,
+    "espece" : "saccharinum",
+    "adresse" : "SQUARE SAINT-LAMBERT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 111642.0,
+    "genre" : "Acer",
+    "varieteoucultivar" : null,
+    "complementadresse" : "15-04",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2968826, 48.84282 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "a1d719c1db5d6200fcd461f502d244e243654abd",
+  "fields" : {
+    "geom_x_y" : [ 48.862083, 2.398577 ],
+    "libellefrancais" : "Plaqueminier",
+    "objectid" : 19980,
+    "idemplacement" : "D00000077016",
+    "arrondissement" : "PARIS 20E ARRDT",
+    "circonferenceencm" : 111.0,
+    "hauteurenm" : 12.0,
+    "espece" : "lotus",
+    "adresse" : "CIMETIERE DU PERE LACHAISE / DIV 77",
+    "domanialite" : "CIMETIERE",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 155788.0,
+    "genre" : "Diospyros",
+    "varieteoucultivar" : null,
+    "complementadresse" : "20-01",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.398577, 48.862083 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "9f97902396a68816df1af8fdc10dc98d517c1f32",
+  "fields" : {
+    "geom_x_y" : [ 48.82132, 2.4553666 ],
+    "libellefrancais" : "Pin",
+    "objectid" : 48513,
+    "idemplacement" : "12-19",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 78.0,
+    "hauteurenm" : 16.0,
+    "espece" : "bungeana",
+    "adresse" : "ARBORETUM DE L ECOLE DU BREUIL - ROUTE DE LA FERME / ROUTE DE LA PYRAMIDE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 2002380.0,
+    "genre" : "Pinus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-19",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "2000-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4553666, 48.82132 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "31d743e1e3e47366ae30364054a27026247bdb38",
+  "fields" : {
+    "geom_x_y" : [ 48.880116, 2.3856668 ],
+    "libellefrancais" : "Marronnier",
+    "objectid" : 54513,
+    "idemplacement" : "G0380002",
+    "arrondissement" : "PARIS 19E ARRDT",
+    "circonferenceencm" : 330.0,
+    "hauteurenm" : 25.0,
+    "espece" : "hippocastanum",
+    "adresse" : "PARC DES BUTTES CHAUMONT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 102028.0,
+    "genre" : "Aesculus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3856668, 48.880116 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "b343e5066cdf25566856f58bb30ffa0ce74887dc",
+  "fields" : {
+    "geom_x_y" : [ 48.8521, 2.3508039 ],
+    "libellefrancais" : "Orme",
+    "objectid" : 58369,
+    "idemplacement" : "000302002",
+    "arrondissement" : "PARIS 4E ARRDT",
+    "circonferenceencm" : 167.0,
+    "hauteurenm" : 10.0,
+    "espece" : "glabra",
+    "adresse" : "SQUARE JEAN XXIII / 2 QUAI DE L ARCHEVECHE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 125063.0,
+    "genre" : "Ulmus",
+    "varieteoucultivar" : "''Pendula''",
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3508039, 48.8521 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "82db074b3a95196b9fee14941645ffcc303963fc",
+  "fields" : {
+    "geom_x_y" : [ 48.840942, 2.464132 ],
+    "libellefrancais" : "Erable",
+    "objectid" : 85244,
+    "idemplacement" : "12-23",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 294.0,
+    "hauteurenm" : 18.0,
+    "espece" : "cappadocicum",
+    "adresse" : "PELOUSE DE FONTENAY - AVENUE DE LA BELLE GABRIELLE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002378.0,
+    "genre" : "Acer",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-23",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1900-01-01T01:09:21+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.464132, 48.840942 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "e9d66db14932f00ff73134a2849c80f0f895fe65",
+  "fields" : {
+    "geom_x_y" : [ 48.858673, 2.2583394 ],
+    "libellefrancais" : "Magnolia",
+    "objectid" : 86145,
+    "idemplacement" : "000101001",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 200.0,
+    "hauteurenm" : 14.0,
+    "espece" : "grandiflora",
+    "adresse" : "BERGE DU LAC INFERIEUR - CHEMIN DE CEINTURE DU LAC INFERIEUR",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002390.0,
+    "genre" : "Magnolia",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-05",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1863-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2583394, 48.858673 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "578a86bd2b08ffcb287b9746ebc9ba59c1462bec",
+  "fields" : {
+    "geom_x_y" : [ 48.867245, 2.3175197 ],
+    "libellefrancais" : "Lilas de Perse",
+    "objectid" : 215222,
+    "idemplacement" : "000112001",
+    "arrondissement" : "PARIS 8E ARRDT",
+    "circonferenceencm" : 168.0,
+    "hauteurenm" : 14.0,
+    "espece" : "azedarach",
+    "adresse" : "JARDINS DES CHAMPS ELYSEES - JARDIN DES AMBASSADEURS / 10 AVENUE DES CHAMPS ELYSEES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 307558.0,
+    "genre" : "Melia",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Secteur Ambassadeurs",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3175197, 48.867245 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "bbdadcddcf45a1711e8b5c29137b6823e64101f2",
+  "fields" : {
+    "geom_x_y" : [ 48.847145, 2.2519836 ],
+    "libellefrancais" : "Pterocarya",
+    "objectid" : 111426,
+    "idemplacement" : "00040026",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 560.0,
+    "hauteurenm" : 30.0,
+    "espece" : "stenoptera",
+    "adresse" : "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 136310.0,
+    "genre" : "Pterocarya",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1905-01-01T01:09:21+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2519836, 48.847145 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "cb6d8d2c62444171d20314f891b7cd2b94dcaefd",
+  "fields" : {
+    "geom_x_y" : [ 48.822952, 2.3374722 ],
+    "libellefrancais" : "Arbre aux quarante écus",
+    "objectid" : 27213,
+    "idemplacement" : "031401018",
+    "arrondissement" : "PARIS 14E ARRDT",
+    "circonferenceencm" : 335.0,
+    "hauteurenm" : 25.0,
+    "espece" : "biloba",
+    "adresse" : "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 106981.0,
+    "genre" : "Ginkgo",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Flatters",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3374722, 48.822952 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "442b87e281bcc63aa155f5cf4d697814c72fb595",
+  "fields" : {
+    "geom_x_y" : [ 48.839405, 2.4333744 ],
+    "libellefrancais" : "Tulipier",
+    "objectid" : 43314,
+    "idemplacement" : "12-02",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 298.0,
+    "hauteurenm" : 30.0,
+    "espece" : "tulipifera",
+    "adresse" : "SQUARE CARNOT - AVENUE DAUMESNIL / ESPLANADE DU CHATEAU DE VINCENNES",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002370.0,
+    "genre" : "Liriodendron",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-02",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1862-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4333744, 48.839405 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "d9974ac605bb1596ca36e49cb836cee0ce39c6f4",
+  "fields" : {
+    "geom_x_y" : [ 48.872795, 2.2875407 ],
+    "libellefrancais" : "Noisetier de Byzance",
+    "objectid" : 187829,
+    "idemplacement" : "000105001 / 16-25",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 204.0,
+    "hauteurenm" : 12.0,
+    "espece" : "colurna",
+    "adresse" : "JARDIN DE L AVENUE FOCH / 10 AVENUE FOCH",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 114779.0,
+    "genre" : "Corylus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "PELOUSE 15 - 27 à 29",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2875407, 48.872795 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "ce702cd7923e5a29e7c84d31f48ef41b007d717a",
+  "fields" : {
+    "geom_x_y" : [ 48.849945, 2.3442197 ],
+    "libellefrancais" : "Orme de Sibérie",
+    "objectid" : 159518,
+    "idemplacement" : "00000001",
+    "arrondissement" : "PARIS 5E ARRDT",
+    "circonferenceencm" : 250.0,
+    "hauteurenm" : 20.0,
+    "espece" : "carpinifolia",
+    "adresse" : "SQUARE PAUL PAINLEVE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 132479.0,
+    "genre" : "Zelkova",
+    "varieteoucultivar" : null,
+    "complementadresse" : "05-04",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3442197, 48.849945 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "f7b14074cd5df41486d0ecc4fed9748d25b2e6e2",
+  "fields" : {
+    "geom_x_y" : [ 48.857838, 2.2933187 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 94606,
+    "idemplacement" : "P00108001",
+    "arrondissement" : "PARIS 7E ARRDT",
+    "circonferenceencm" : 695.0,
+    "hauteurenm" : 27.0,
+    "espece" : "x hispanica",
+    "adresse" : "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE / SETE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 108095.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Canton 01 / SETE",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2933187, 48.857838 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "eca80c370c8a6ecc5873f56bc694aa3749853b8b",
+  "fields" : {
+    "geom_x_y" : [ 48.822716, 2.3386884 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 104759,
+    "idemplacement" : "0420A1001",
+    "arrondissement" : "PARIS 14E ARRDT",
+    "circonferenceencm" : 610.0,
+    "hauteurenm" : 25.0,
+    "espece" : "x hispanica",
+    "adresse" : "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 113547.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "Plateau Baigneuses",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3386884, 48.822716 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "f04965fb812bc4b6e2702db46e7d5a350c5994b8",
+  "fields" : {
+    "geom_x_y" : [ 48.820072, 2.4351664 ],
+    "libellefrancais" : "Catalpa",
+    "objectid" : 164011,
+    "idemplacement" : "12-38",
+    "arrondissement" : "BOIS DE VINCENNES",
+    "circonferenceencm" : 289.0,
+    "hauteurenm" : 10.0,
+    "espece" : "bignonioides",
+    "adresse" : "PENTE DE GRAVELLE - AVENUE DE GRAVELLE / ROUTE DU MOULIN ROUGE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002399.0,
+    "genre" : "Catalpa",
+    "varieteoucultivar" : null,
+    "complementadresse" : "12-38",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "2000-01-01T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.4351664, 48.820072 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "55d109a7a6b1aa9e0545824d9f602da7fdec7163",
+  "fields" : {
+    "geom_x_y" : [ 48.87311, 2.248865 ],
+    "libellefrancais" : "Hêtre",
+    "objectid" : 171029,
+    "idemplacement" : "000701004",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 231.0,
+    "hauteurenm" : 16.0,
+    "espece" : "sylvatica",
+    "adresse" : "PARC DE BAGATELLE - ALLEE DE LONGCHAMP / ROUTE DE SEVRES A NEUILLY",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002354.0,
+    "genre" : "Fagus",
+    "varieteoucultivar" : "''Pendula''",
+    "complementadresse" : "16-17",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1868-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.248865, 48.87311 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "720cb4b4545b686608d8d86ca089b65ca03d9998",
+  "fields" : {
+    "geom_x_y" : [ 48.86712, 2.252942 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 198004,
+    "idemplacement" : "001201001",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 534.0,
+    "hauteurenm" : 45.0,
+    "espece" : "x hispanica",
+    "adresse" : "ROUTE DU LAC A BAGATELLE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002389.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-10",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1872-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.252942, 48.86712 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "617db1569dc8c3af38fef1aab6f6486b811dc9ee",
+  "fields" : {
+    "geom_x_y" : [ 48.87325, 2.2488787 ],
+    "libellefrancais" : "Arbre aux mouchoirs",
+    "objectid" : 213646,
+    "idemplacement" : "000701006",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 120.0,
+    "hauteurenm" : 15.0,
+    "espece" : "involucrata",
+    "adresse" : "PARC DE BAGATELLE - ALLEE DE LONGCHAMP / ROUTE DE SEVRES A NEUILLY",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 2002355.0,
+    "genre" : "Davidia",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-20",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1906-01-01T01:09:21+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2488787, 48.87325 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "4bca27f5771b3c49a2e929d6acbbd040dd568e2c",
+  "fields" : {
+    "geom_x_y" : [ 48.83303, 2.350693 ],
+    "libellefrancais" : "Marronnier",
+    "objectid" : 33048,
+    "idemplacement" : "00010270",
+    "arrondissement" : "PARIS 13E ARRDT",
+    "circonferenceencm" : 360.0,
+    "hauteurenm" : 15.0,
+    "espece" : "hippocastanum",
+    "adresse" : "SQUARE RENE LE GALL",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 104841.0,
+    "genre" : "Aesculus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "13-01",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1894-01-01T01:09:21+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.350693, 48.83303 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "2136622b3ca4a91ede62ef62d46a761f4c2cf0ec",
+  "fields" : {
+    "geom_x_y" : [ 48.881935, 2.3982637 ],
+    "libellefrancais" : "Frêne",
+    "objectid" : 34196,
+    "idemplacement" : "00000509",
+    "arrondissement" : "PARIS 19E ARRDT",
+    "circonferenceencm" : 385.0,
+    "hauteurenm" : 24.0,
+    "espece" : "excelsior",
+    "adresse" : "SQUARE DE LA BUTTE DU CHAPEAU ROUGE / 11 BOULEVARD D ALGERIE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 127998.0,
+    "genre" : "Fraxinus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "19-01",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3982637, 48.881935 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "5d1c3958c8f87549f7782327e44cd8e92f6bc2a7",
+  "fields" : {
+    "geom_x_y" : [ 48.876923, 2.3467185 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 39762,
+    "idemplacement" : "000108001",
+    "arrondissement" : "PARIS 9E ARRDT",
+    "circonferenceencm" : 465.0,
+    "hauteurenm" : 25.0,
+    "espece" : "x hispanica",
+    "adresse" : "SQUARE MONTHOLON / 79 BIS RUE LA FAYETTE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 317250.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3467185, 48.876923 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "a19bbe4d4f176931437b50950ea3520b95e8fd49",
+  "fields" : {
+    "geom_x_y" : [ 48.863174, 2.2617385 ],
+    "libellefrancais" : "Pterocarya",
+    "objectid" : 41381,
+    "idemplacement" : "000101004",
+    "arrondissement" : "BOIS DE BOULOGNE",
+    "circonferenceencm" : 407.0,
+    "hauteurenm" : 27.0,
+    "espece" : "fraxinifolia",
+    "adresse" : "BERGE DU LAC INFERIEUR - CHEMIN DE CEINTURE DU LAC INFERIEUR",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 2002392.0,
+    "genre" : "Pterocarya",
+    "varieteoucultivar" : null,
+    "complementadresse" : "16-02",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1882-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.2617385, 48.863174 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "7da01da301fc4965624986bddc85bc658d8a63ee",
+  "fields" : {
+    "geom_x_y" : [ 48.857777, 2.3145304 ],
+    "libellefrancais" : "Platane",
+    "objectid" : 73063,
+    "idemplacement" : "000201004",
+    "arrondissement" : "PARIS 7E ARRDT",
+    "circonferenceencm" : 480.0,
+    "hauteurenm" : 25.0,
+    "espece" : "x hispanica",
+    "adresse" : "SQUARE D AJACCIO / 127 RUE DE GRENELLE",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "M",
+    "remarquable" : "1",
+    "idbase" : 109021.0,
+    "genre" : "Platanus",
+    "varieteoucultivar" : null,
+    "complementadresse" : "07-13",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3145304, 48.857777 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "7c17a1c082c0ff509835a9d6650ca6e7b2569966",
+  "fields" : {
+    "geom_x_y" : [ 48.87354, 2.29045 ],
+    "libellefrancais" : "Savonnier",
+    "objectid" : 78334,
+    "idemplacement" : "000206001 / 16-34",
+    "arrondissement" : "PARIS 16E ARRDT",
+    "circonferenceencm" : 163.0,
+    "hauteurenm" : 8.0,
+    "espece" : "paniculata",
+    "adresse" : "JARDIN DE L AVENUE FOCH / 10 AVENUE FOCH",
+    "domanialite" : "Jardin",
+    "pepiniere" : "Inconnue",
+    "stadedeveloppement" : "A",
+    "remarquable" : "1",
+    "idbase" : 114869.0,
+    "genre" : "Koelreuteria",
+    "varieteoucultivar" : null,
+    "complementadresse" : "PELOUSE 10 - 20 à 26",
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "1700-01-01T01:02:49+00:53"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.29045, 48.87354 ]
+  }
+}, {
+  "datasetid" : "arbresremarquablesparis",
+  "recordid" : "9ea8574dca0e8f5b570ff7b4489115f0091a2e10",
+  "fields" : {
+    "geom_x_y" : [ 48.868294, 2.3631895 ],
+    "libellefrancais" : "Chêne",
+    "objectid" : 207977,
+    "idemplacement" : "000401009",
+    "arrondissement" : "PARIS 10E ARRDT",
+    "circonferenceencm" : 51.0,
+    "hauteurenm" : 7.0,
+    "espece" : "cerris",
+    "adresse" : "PLACE DE LA REPUBLIQUE",
+    "domanialite" : "Alignement",
+    "pepiniere" : "Guillot Bourne",
+    "stadedeveloppement" : "J",
+    "remarquable" : "1",
+    "idbase" : 2017817.0,
+    "genre" : "Quercus",
+    "varieteoucultivar" : null,
+    "complementadresse" : null,
+    "typeemplacement" : "Arbre",
+    "dateplantation" : "2017-11-09T02:00:00+01:00"
+  },
+  "record_timestamp" : "2021-02-12T12:45:19.089+01:00",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 2.3631895, 48.868294 ]
+  }
+} ]
